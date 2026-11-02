@@ -326,3 +326,14 @@ nav .more .menu a:hover{background:var(--band)}
 .popup button{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--white);border-radius:8px;padding:7px 12px;cursor:pointer;color:var(--muted)}
 .popup button.primary{background:var(--bark-deep);border-color:var(--bark-deep);color:#fff}
 @media (max-width:560px){.popup{left:16px;right:16px;width:auto}}
+
+/* 칼럼 목록 섹션 */
+.col-jump{margin:0 0 8px}
+.col-jump .chip{text-decoration:none;color:var(--ink)}
+.col-jump .chip small{color:var(--muted);font-weight:500;margin-left:2px}
+.col-jump .chip:hover{border-color:var(--bark)}
+.col-sec{margin-top:48px;scroll-margin-top:90px}
+.col-sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:20px}
+.col-sec-head h2{font-size:clamp(22px,2.6vw,28px);margin:0}
+.col-sec-head a{font-size:14px;color:var(--bark-deep);text-decoration:none;font-weight:600}
+.col-sec-head a:hover{text-decoration:underline}
