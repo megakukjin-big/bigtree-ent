@@ -311,3 +311,5 @@ nav .more .menu a:hover{background:var(--band)}
 .blog-list .meta{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
 .blog-list .hl{font-weight:600;line-height:1.5}
 .blog-list .dek{font-size:14px;color:var(--muted)}
+.certs{grid-template-columns:repeat(4,minmax(0,1fr));max-width:720px}
+@media (max-width:560px){.certs{grid-template-columns:repeat(2,minmax(0,1fr))}}
