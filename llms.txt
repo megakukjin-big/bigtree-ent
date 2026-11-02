@@ -60,6 +60,7 @@
 - [목이 불편한데 후두 내시경까지 해야 하나요? 성대를 직접 봐야 하는 이유](https://bigtree-ent.vercel.app/column/laryngoscopy.html): 쉰 목소리와 목 이물감, 후두 내시경으로 확인하는 성대마비·결절·용종·역류·종양
 - [귀가 웅웅하고 먹먹한데, 청력검사까지 해야 하나요?](https://bigtree-ent.vercel.app/column/ear-fullness-low-tone.html): 대화는 잘 들려도 놓치기 쉬운 저음역 난청, 먹먹함의 원인 구분과 청력검사
 - [목에 뭔가 걸린 느낌, 헛기침이 계속된다면: 인후두 역류질환](https://bigtree-ent.vercel.app/column/lpr.html): 가슴 쓰림 없이 목에만 오는 역류, 증상과 후두 내시경 소견, 치료와 생활 습관
+- [청각장애 등록, 어떤 검사가 필요할까요? 청력검사부터 ABR, 6개월 원칙까지](https://bigtree-ent.vercel.app/column/hearing-disability-registration.html): 청각장애 판정 기준, 순음청력검사 3회와 ABR, 6분법, 6개월 이상 고착된 난청과 과거 기록의 중요성
 
 ## 언론 인터뷰
 - 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
