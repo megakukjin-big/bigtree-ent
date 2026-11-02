@@ -243,3 +243,8 @@ section.band .col-list .topic{background:var(--paper)}
   .treat{grid-template-columns:1fr}
   .cause{grid-template-columns:1fr;gap:4px}
 }
+@media (max-width:860px){
+  .bar{flex-wrap:wrap;height:auto;padding-block:10px 0;row-gap:8px}
+  .bar nav{display:flex;order:3;width:100%;overflow-x:auto;gap:20px;white-space:nowrap;font-size:14px;padding-bottom:10px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .bar nav::-webkit-scrollbar{display:none}
+}
