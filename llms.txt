@@ -55,6 +55,7 @@
 - [심인성 어지럼증이라고요? 검사로 원인을 찾기 어려운 어지럼, PPPD](https://bigtree-ent.vercel.app/column/pppd.html): 검사는 정상인데 몇 달째 흔들리는 어지럼, 심인성과 무엇이 다른지와 PPPD의 진단·치료
 - [집먼지진드기 알레르기, 평생 약만 먹어야 할까요? 아카리작스 설하 면역치료](https://bigtree-ent.vercel.app/column/acarizax-slit.html): 집먼지진드기 알레르기 비염의 원인에 접근하는 설하 면역치료, 대상과 진행, 부작용
 - [알레르기 비염이 자꾸 재발한다면: 히스토불린 주사치료](https://bigtree-ent.vercel.app/column/histobulin.html): 히스토불린의 성분과 적응증, 주사 일정, 기대할 수 있는 것과 없는 것, 아카리작스와의 차이
+- [감기에 항생제, 꼭 먹어야 할까요? 코 내시경으로 꼼꼼히 보는 이유](https://bigtree-ent.vercel.app/column/cold-antibiotics-endoscopy.html): 누런 콧물과 세균 감염의 차이, 항생제가 필요한 경과, 코 내시경으로 확인하는 것
 
 ## 언론 인터뷰
 - 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
