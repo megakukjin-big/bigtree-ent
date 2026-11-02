@@ -208,10 +208,8 @@
       <a class="main" href="/sleep/">코골이·수면</a>
       <span class="sep" aria-hidden="true"></span>
       <a class="col-link" href="/column/">칼럼</a>
-      <a href="/doctor/">의료진</a>
-      <a href="/#visit">오시는 길</a>
-      <a href="/notice/">공지사항</a>
-    </nav>
+      <div class="more info"><button type="button" aria-haspopup="true" aria-expanded="false">병원 안내</button><div class="menu"><a href="/doctor/">의료진</a><a href="/#visit">오시는 길</a><a href="/notice/">공지사항</a><a href="/fees/">비급여 진료비</a></div></div>
+    </nav><script>document.addEventListener("click",function(e){var b=e.target.closest("nav .more button");document.querySelectorAll("nav .more.open").forEach(function(m){if(!b||m!==b.parentNode){m.classList.remove("open");m.querySelector("button").setAttribute("aria-expanded","false")}});if(b){var m=b.parentNode,o=m.classList.toggle("open");b.setAttribute("aria-expanded",o)}})</script>
     <a class="tel" href="tel:0319378481">031-937-8481</a>
   </div>
 </header>
