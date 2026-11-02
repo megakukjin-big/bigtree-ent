@@ -41,6 +41,12 @@
 - [어지럽고 토할 것 같다면, 귀일까 자율신경일까](https://bigtree-ent.vercel.app/column/dizziness-vomiting.html): 구토를 동반한 어지럼의 원인 구분과 자율신경검사(기립경사검사)가 필요한 경우
 - [사격 후 생긴 이명, 기다려도 될까요?](https://bigtree-ent.vercel.app/column/tinnitus-after-shooting.html): 음향외상 뒤 지켜봐도 되는 경우와 바로 청력검사가 필요한 신호, TMS 치료
 - [수면다원검사, 나에게 필요할까요?](https://bigtree-ent.vercel.app/column/psg-do-i-need.html): 코골이와 수면무호흡의 차이, 검사가 필요한 신호와 수면다원검사에서 보는 것
+- [한쪽 귀가 갑자기 먹먹하다면, 돌발성 난청일 수 있습니다](https://bigtree-ent.vercel.app/column/sudden-hearing-loss.html): 돌발성 난청의 초기 신호, 귀지·중이염과의 구분, 빨리 치료해야 하는 이유
+- [이석증과 메니에르병, 치료는 어떻게 다를까요](https://bigtree-ent.vercel.app/column/bppv-meniere-treatment.html): 이석정복술과 재발 관리, 메니에르병 발작을 줄이는 생활 관리
+- [참고 넘긴 이명이 만성이 되기 전에: 이명의 종류와 TMS 치료](https://bigtree-ent.vercel.app/column/tinnitus-tms.html): 자각적·타각적 이명의 차이, 약물·보청기·경두개자기자극(TMS) 치료
+- [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtree-ent.vercel.app/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
+- [청각장애 진단 검사와 자료보완 재검, 어떻게 준비할까요](https://bigtree-ent.vercel.app/column/hearing-disability-test.html): 청각장애 정도 기준, 3회 검사와 ABR, 자료보완 사유와 재검 준비
+- [미세먼지 많은 날 목이 칼칼하다면: 후두염 증상과 관리](https://bigtree-ent.vercel.app/column/laryngitis-fine-dust.html): 미세먼지가 후두에 주는 영향, 후두염 증상과 치료, 목 관리법
 
 ## 언론 인터뷰
 - 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
