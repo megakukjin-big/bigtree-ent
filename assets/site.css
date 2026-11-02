@@ -255,3 +255,20 @@ section.band .col-list .topic{background:var(--paper)}
 .certs small{font-weight:400;color:var(--muted)}
 .cert-badge{display:inline-flex;align-items:center;gap:8px;margin-top:18px;font-size:14px;font-weight:600;color:var(--bark-deep);background:var(--band);border-radius:999px;padding:6px 14px}
 .cert-badge img{width:18px;height:auto}
+/* 공지·비급여 */
+.doc-page h1{font-size:clamp(26px,3.6vw,34px)}
+.doc-body h2{font-size:20px;margin:36px 0 12px}
+.doc-body p,.doc-body li{font-size:16px;line-height:1.8}
+.doc-body .tbl table{min-width:0}
+.doc-body td .num,.tbl .num{font-variant-numeric:tabular-nums;white-space:nowrap}
+.doc-body td:last-child{white-space:normal}
+.note{font-size:14px;color:var(--muted)}
+.notice-list{list-style:none;margin:0;padding:0;border-top:2px solid var(--ink)}
+.notice-list li{border-bottom:1px solid var(--line)}
+.notice-list a{display:flex;justify-content:space-between;gap:16px;padding:18px 4px;text-decoration:none;align-items:baseline}
+.notice-list a:hover .hl{color:var(--bark-deep);text-decoration:underline}
+.notice-list .hl{font-weight:500}
+.notice-list time{color:var(--muted);font-size:14px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.notice-list .badge{display:inline-block;background:var(--bark-deep);color:#fff;font-size:12px;border-radius:6px;padding:1px 8px;margin-right:8px;font-weight:600}
+.flinks{font-size:13px}
+.flinks a{color:#E8E0D8}
