@@ -313,3 +313,11 @@ nav .more .menu a:hover{background:var(--band)}
 .blog-list .dek{font-size:14px;color:var(--muted)}
 .certs{grid-template-columns:repeat(4,minmax(0,1fr));max-width:720px}
 @media (max-width:560px){.certs{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.popup{position:fixed;right:max(20px, env(safe-area-inset-right,0px));bottom:calc(20px + env(safe-area-inset-bottom,0px));z-index:30;width:min(340px,calc(100vw - 32px));background:var(--white);border:1px solid var(--line);border-left:4px solid var(--bark-deep);border-radius:14px;padding:18px 20px;box-shadow:0 12px 32px rgba(36,33,30,.18);display:grid;gap:8px}
+.popup-tag{font-size:12px;font-weight:600;letter-spacing:.06em;color:var(--bark)}
+.popup h2{font-size:19px}
+.popup p{font-size:14px;color:var(--muted);line-height:1.6}
+.popup-actions{display:flex;justify-content:flex-end;gap:8px;margin-top:6px}
+.popup button{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--white);border-radius:8px;padding:7px 12px;cursor:pointer;color:var(--muted)}
+.popup button.primary{background:var(--bark-deep);border-color:var(--bark-deep);color:#fff}
+@media (max-width:560px){.popup{left:16px;right:16px;width:auto}}

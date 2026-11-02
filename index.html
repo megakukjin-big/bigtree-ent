@@ -561,6 +561,18 @@
   </section>
 </main>
 
+<aside class="popup" id="popup" data-id="flu-2026" role="dialog" aria-labelledby="popup-title">
+  <p class="popup-tag">안내</p>
+  <h2 id="popup-title">독감 예방접종 마감</h2>
+  <p>어르신 국가예방접종(NIP)과 유료 독감 백신이 모두 소진되어 올해 접종을 마감했습니다. 독감 검사와 진료는 계속 가능합니다.</p>
+  <div class="popup-actions"><button type="button" data-hide="forever">다시 보지 않기</button><button type="button" data-hide="close" class="primary">닫기</button></div>
+</aside>
+<script>
+(function(){var el=document.getElementById('popup');if(!el)return;var k='popup-hide-'+el.dataset.id;
+try{if(localStorage.getItem(k)){el.remove();return}}catch(e){}
+el.addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;
+if(b.dataset.hide==='forever'){try{localStorage.setItem(k,'1')}catch(e){}}el.remove();});})();
+</script>
 <footer>
   <div class="wrap">
     <img src="/assets/logo-horizontal-white.png" alt="큰나무이비인후과의원">
