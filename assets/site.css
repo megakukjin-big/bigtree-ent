@@ -304,3 +304,10 @@ nav .more .menu a:hover{background:var(--band)}
 }
 .closed-alert{display:flex;gap:10px;align-items:center;margin-top:16px;padding:10px 14px;border-radius:10px;background:#FBEDEA;color:#8A2E1F;font-size:14px;text-decoration:none}
 .closed-alert b{background:#8A2E1F;color:#fff;border-radius:6px;padding:1px 8px;font-size:12px}
+.blog-list{list-style:none;margin:0;padding:0;display:grid;border-top:1px solid var(--line)}
+.blog-list li{border-bottom:1px solid var(--line)}
+.blog-list a{display:grid;gap:4px;padding:16px 4px;text-decoration:none}
+.blog-list a:hover .hl{color:var(--bark-deep);text-decoration:underline}
+.blog-list .meta{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.blog-list .hl{font-weight:600;line-height:1.5}
+.blog-list .dek{font-size:14px;color:var(--muted)}

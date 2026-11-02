@@ -1,0 +1,24 @@
+name: 블로그 최신 글 갱신
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 매일 한국시간 오전 6시
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/fetch_blog.py
+      - name: 바뀐 내용이 있으면 저장
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "bigtree-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git commit -am "블로그 최신 글 자동 갱신"
+            git push
+          fi
