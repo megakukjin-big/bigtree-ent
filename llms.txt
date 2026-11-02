@@ -48,6 +48,7 @@
 - [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtree-ent.vercel.app/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
 - [청각장애 진단 검사와 자료보완 재검, 어떻게 준비할까요](https://bigtree-ent.vercel.app/column/hearing-disability-test.html): 청각장애 정도 기준, 3회 검사와 ABR, 자료보완 사유와 재검 준비
 - [미세먼지 많은 날 목이 칼칼하다면: 후두염 증상과 관리](https://bigtree-ent.vercel.app/column/laryngitis-fine-dust.html): 미세먼지가 후두에 주는 영향, 후두염 증상과 치료, 목 관리법
+- [귀가 아프고 먹먹하다면, 중이염의 종류와 치료](https://bigtree-ent.vercel.app/column/otitis-media.html): 급성·삼출성·만성 중이염의 차이, 아이 중이염 신호와 치료
 
 ## 언론 인터뷰
 - 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
