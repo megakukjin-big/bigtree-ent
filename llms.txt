@@ -52,7 +52,7 @@
 - [감기가 낫지 않고 누런 콧물이 계속된다면, 축농증일까요?](https://bigtree-ent.vercel.app/column/sinusitis.html): 급성·만성 축농증의 차이, 감기·비염과 구분하는 법, 저선량 CT와 치료
 - [감기가 자꾸 반복된다면: 반복성 호흡기 감염과 이스미젠](https://bigtree-ent.vercel.app/column/recurrent-cold-ismigen.html): 감기가 반복되는 원인 확인부터, 예방적 면역조절 치료 이스미젠의 근거와 복용법
 - [어지럼이 반복되는데 이석증이 아니라면: 전정편두통](https://bigtree-ent.vercel.app/column/vestibular-migraine.html): 두통 없이도 올 수 있는 반복성 어지럼, 이석증과의 차이와 진단 기준, 치료
-- [검사는 정상인데 계속 어지럽다면: 지속성 체위지각 어지럼증(PPPD)](https://bigtree-ent.vercel.app/column/pppd.html): 이석증이 나은 뒤에도 몇 달씩 흔들리는 어지럼, PPPD의 특징과 진단기준, 전정재활 중심 치료
+- [심인성 어지럼증이라고요? 검사로 원인을 찾기 어려운 어지럼, PPPD](https://bigtree-ent.vercel.app/column/pppd.html): 검사는 정상인데 몇 달째 흔들리는 어지럼, 심인성과 무엇이 다른지와 PPPD의 진단·치료
 
 ## 언론 인터뷰
 - 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
