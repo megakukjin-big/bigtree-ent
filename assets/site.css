@@ -255,6 +255,11 @@ section.band .col-list .topic{background:var(--paper)}
 .certs small{font-weight:400;color:var(--muted)}
 .cert-badge{display:inline-flex;align-items:center;gap:8px;margin-top:18px;font-size:14px;font-weight:600;color:var(--bark-deep);background:var(--band);border-radius:999px;padding:6px 14px}
 .cert-badge img{width:18px;height:auto}
+.feature-note{display:block;margin-top:14px;padding:14px 18px;border:1.5px solid var(--bark);border-radius:14px;background:#fff;color:var(--ink);text-decoration:none;max-width:560px}
+.feature-note strong{display:block;font-size:16px;color:var(--bark-deep);margin-bottom:4px}
+.feature-note span{font-size:14px;line-height:1.6;color:var(--ink)}
+.feature-note:hover{background:var(--band)}
+.feature-note.in-article{margin:8px 0 28px;max-width:none}
 /* 공지·비급여 */
 .doc-page h1{font-size:clamp(26px,3.6vw,34px)}
 .doc-body h2{font-size:20px;margin:36px 0 12px}
