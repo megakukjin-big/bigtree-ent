@@ -302,3 +302,5 @@ nav .more .menu a:hover{background:var(--band)}
   nav .more .menu::before{display:none}
   nav a.main::after{bottom:-3px}
 }
+.closed-alert{display:flex;gap:10px;align-items:center;margin-top:16px;padding:10px 14px;border-radius:10px;background:#FBEDEA;color:#8A2E1F;font-size:14px;text-decoration:none}
+.closed-alert b{background:#8A2E1F;color:#fff;border-radius:6px;padding:1px 8px;font-size:12px}
