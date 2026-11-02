@@ -248,3 +248,10 @@ section.band .col-list .topic{background:var(--paper)}
   .bar nav{display:flex;order:3;width:100%;overflow-x:auto;gap:20px;white-space:nowrap;font-size:14px;padding-bottom:10px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
   .bar nav::-webkit-scrollbar{display:none}
 }
+.certs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:32px;max-width:560px}
+.certs figure{margin:0;display:grid;gap:8px}
+.certs img{width:100%;aspect-ratio:5/7;object-fit:cover;border-radius:8px;box-shadow:0 2px 10px rgba(36,33,30,.12)}
+.certs figcaption{font-size:13px;font-weight:600;line-height:1.5}
+.certs small{font-weight:400;color:var(--muted)}
+.cert-badge{display:inline-flex;align-items:center;gap:8px;margin-top:18px;font-size:14px;font-weight:600;color:var(--bark-deep);background:var(--band);border-radius:999px;padding:6px 14px}
+.cert-badge img{width:18px;height:auto}
