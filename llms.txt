@@ -40,6 +40,7 @@
 - [충분히 잤는데도 개운하지 않다면](https://bigtree-ent.vercel.app/column/unrefreshing-sleep.html): 수면무호흡, 불면증, 생활 리듬 중 무엇이 원인인지 구분하는 법
 - [어지럽고 토할 것 같다면, 귀일까 자율신경일까](https://bigtree-ent.vercel.app/column/dizziness-vomiting.html): 구토를 동반한 어지럼의 원인 구분과 자율신경검사(기립경사검사)가 필요한 경우
 - [사격 후 생긴 이명, 기다려도 될까요?](https://bigtree-ent.vercel.app/column/tinnitus-after-shooting.html): 음향외상 뒤 지켜봐도 되는 경우와 바로 청력검사가 필요한 신호, TMS 치료
+- [수면다원검사, 나에게 필요할까요?](https://bigtree-ent.vercel.app/column/psg-do-i-need.html): 코골이와 수면무호흡의 차이, 검사가 필요한 신호와 수면다원검사에서 보는 것
 
 ## 언론 인터뷰
 - 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
