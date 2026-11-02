@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/column/recurrent-cold-ismigen.html",
+      "destination": "/column/recurrent-respiratory-infection.html",
+      "permanent": true
+    },
+    {
+      "source": "/column/acarizax-slit.html",
+      "destination": "/column/house-dust-mite-slit.html",
+      "permanent": true
+    },
+    {
+      "source": "/column/histobulin.html",
+      "destination": "/column/histamine-immunoglobulin.html",
+      "permanent": true
+    }
+  ]
+}
