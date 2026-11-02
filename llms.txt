@@ -58,6 +58,7 @@
 - [감기에 항생제, 꼭 먹어야 할까요? 코 내시경으로 꼼꼼히 보는 이유](https://bigtree-ent.vercel.app/column/cold-antibiotics-endoscopy.html): 누런 콧물과 세균 감염의 차이, 항생제가 필요한 경과, 코 내시경으로 확인하는 것
 - [스테로이드 코 스프레이, 매일 뿌려도 괜찮을까요?](https://bigtree-ent.vercel.app/column/nasal-steroid-spray.html): 비강 스테로이드 분무제의 안전성, 혈관수축제 스프레이와의 차이, 올바르게 뿌리는 법
 - [목이 불편한데 후두 내시경까지 해야 하나요? 성대를 직접 봐야 하는 이유](https://bigtree-ent.vercel.app/column/laryngoscopy.html): 쉰 목소리와 목 이물감, 후두 내시경으로 확인하는 성대마비·결절·용종·역류·종양
+- [귀가 웅웅하고 먹먹한데, 청력검사까지 해야 하나요?](https://bigtree-ent.vercel.app/column/ear-fullness-low-tone.html): 대화는 잘 들려도 놓치기 쉬운 저음역 난청, 먹먹함의 원인 구분과 청력검사
 
 ## 언론 인터뷰
 - 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
