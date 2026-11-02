@@ -1,0 +1,48 @@
+# 큰나무이비인후과의원 (Big Tree ENT Clinic)
+
+> 경기도 파주시 야당동(경의선 야당역 인근, 롯데시네마 파주야당점 건물 4층)에 있는 이비인후과 의원. 2024년 12월 개원. 대표원장 남국진(이비인후과 전문의)이 어지럼증, 이명·난청, 코골이·수면무호흡, 비염·축농증을 진료하며 비디오 안진검사, 청력검사, 청성뇌간반응검사, 수면다원검사, 저선량 CT를 원내에서 시행한다.
+
+## 기본 정보
+- 주소: 경기도 파주시 경의로 1074, 4층 403·404호 (지번: 야당동 1066 삼융시네마)
+- 전화: 031-937-8481
+- 진료시간: 평일 08:30~19:00 (점심 13:00~14:00), 토요일 08:30~14:00 (점심시간 없음), 일요일 휴진. 공휴일·임시 휴진은 홈페이지 공지와 네이버 지도에 안내.
+- 주차: 건물 지하주차장 B1~B3
+- 홈페이지: https://bigtree-ent.vercel.app/
+- 네이버 블로그: https://blog.naver.com/big_tree_clinic
+
+## 대표원장 남국진
+- 이비인후과 전문의. 고려대학교 의학전문대학원 졸업, 고려대학교 안산병원 이비인후과 수석 전공의·임상강사·외래교수, 대한이비인후과학회 지도전문의.
+- 대한이과학회 어지럼 전문과정(2025.07), 난청-보청기 전문과정(2025.09), 이명 전문과정(2025.12) 수료. 수면다원검사 인증의.
+- 학회: 대한이비인후과학회, 대한이과학회, 대한비과학회, 대한평형의학회, 대한수면호흡학회, 천식알레르기학회 정회원.
+- 상세: https://bigtree-ent.vercel.app/doctor/
+
+## 진료 분야
+- [어지럼증](https://bigtree-ent.vercel.app/dizziness/): 파주 야당동 큰나무이비인후과 어지럼증 진료. 이석증, 전정신경염, 메니에르병, 기립성 어지럼을 비디오 안진검사·균형검사·자율신경검사로 구분합니다.
+- [이명 · 난청](https://bigtree-ent.vercel.app/hearing/): 파주 야당동 큰나무이비인후과 이명·난청 진료. 순음·어음청력검사, 이음향방사, 청성뇌간반응검사(ABR)로 원인을 확인하고, 돌발성 난청은 빠르게 치료합니다.
+- [코골이 · 수면무호흡](https://bigtree-ent.vercel.app/sleep/): 파주 야당동 큰나무이비인후과 코골이·수면무호흡 진료. 원내 수면검사실에서 수면다원검사를 하고, 결과에 따라 양압기 치료와 사용 관리를 합니다.
+- [비염 · 축농증 · 만성기침](https://bigtree-ent.vercel.app/nose-throat/): 파주 야당동 큰나무이비인후과 비염·축농증·만성기침·편도결석 진료. 코·목 내시경과 원내 저선량 CT로 원인을 확인합니다.
+
+## 보유 검사 장비
+- 비디오 안진검사기 Interacoustics VisualEyes 525
+- 자율신경검사 AFT-800
+- 균형검사 SBT-330
+- 청력검사기 Interacoustics AD-629
+- 고막운동성·이음향방사 Interacoustics Titan
+- 청성뇌간반응검사 Interacoustics EP-15
+- 수면다원검사 Löwenstein SONATA
+- 저선량 CT Genoray PAPAYA 3D
+
+## 칼럼
+- [어지러우면 모두 이석증일까요?](https://bigtree-ent.vercel.app/column/dizziness-not-always-bppv.html): 어지럼이 얼마나 가는지, 귀 증상이 함께 있는지로 원인을 좁혀 가는 방법
+
+## 언론 인터뷰
+- 2026.07.01 하이닥: [어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?](https://news.hidoc.co.kr/news/articleView.html?idxno=64308)
+- 2026.02.27 보건뉴스: [이석증, 단순 약물보다 '문제 반고리관' 찾는 맞춤 치료 중요](http://www.bokuennews.com/news/article.html?no=274419)
+- 2026.01.22 보건뉴스: ['앉았다 일어날 때 어지럼, 기립성 저혈압 의심해야'](http://www.bokuennews.com/news/article.html?no=272735)
+- 2026.01.15 하이닥: [목 깊숙한 곳에서 나는 악취, '편도결석'...그 원인과 치료법은?](https://news.hidoc.co.kr/news/articleView.html?idxno=57756)
+- 2025.10.16 하이닥: ["이어폰 60/60 원칙 지켜야"…이명 예방하는 생활 속 관리법은?](https://news.hidoc.co.kr/news/articleView.html?idxno=54243)
+- 2025.10.10 하이닥: ["귀에서 나는 삐-소리"…젊은 층 이명 환자 증가하는 이유는?](https://news.hidoc.co.kr/news/articleView.html?idxno=54029)
+- 2025.03.26 하이닥: [코골이 뿌리 뽑으려면…맞춤 치료 위해 '수면다원검사' 필요](https://news.hidoc.co.kr/news/articleView.html?idxno=45646)
+
+## 방송·영상
+- [남국진 원장 출연 영상](https://youtu.be/qdVQubP1mkE)
