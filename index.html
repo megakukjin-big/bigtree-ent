@@ -153,6 +153,18 @@ section.band{background:var(--band)}
 .acts figcaption{font-size:14px;color:var(--muted)}
 .field-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;margin-bottom:6px}
 @media (max-width:900px){.acts{grid-template-columns:repeat(2,minmax(0,1fr))}.doc-photo{max-width:320px}}
+.media{display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:start}
+.video{display:grid;gap:10px}
+.video iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:14px;background:var(--ink)}
+.yt{font-size:14px;color:var(--bark-deep);font-weight:600}
+.press{list-style:none;margin:0;padding:0;display:grid;border-top:1px solid var(--line)}
+.press li{border-bottom:1px solid var(--line)}
+.press a{display:grid;gap:4px;padding:16px 4px;text-decoration:none}
+.press a:hover .hl{color:var(--bark-deep);text-decoration:underline}
+.press .meta{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.press .topic{background:var(--band);color:var(--bark-deep);font-weight:600;border-radius:999px;padding:1px 9px}
+.press .hl{font-weight:600;line-height:1.5}
+@media (max-width:900px){.media{grid-template-columns:1fr}}
 footer{background:var(--ink);color:#CFC7BE;padding-block:48px;font-size:14px}
 footer .wrap{display:grid;gap:20px}
 footer img{height:30px;width:auto}
@@ -199,7 +211,7 @@ footer p{line-height:1.9}
   {"@type":"MedicalProcedure","name":"수면다원검사"},
   {"@type":"MedicalProcedure","name":"부비동 CT"}
  ],
- "employee":{"@type":"Physician","name":"남국진","jobTitle":"대표원장","medicalSpecialty":"Otolaryngologic","alumniOf":"고려대학교 의학전문대학원"},
+ "employee":{"@type":"Physician","name":"남국진","jobTitle":"대표원장","medicalSpecialty":"Otolaryngologic","alumniOf":"고려대학교 의학전문대학원","subjectOf":[{"@type":"NewsArticle","headline":"어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?","datePublished":"2026-07-01","url":"https://news.hidoc.co.kr/news/articleView.html?idxno=64308","publisher":{"@type":"Organization","name":"하이닥"}},{"@type":"NewsArticle","headline":"목 깊숙한 곳에서 나는 악취, '편도결석'...그 원인과 치료법은?","datePublished":"2026-01-15","url":"https://news.hidoc.co.kr/news/articleView.html?idxno=57756","publisher":{"@type":"Organization","name":"하이닥"}},{"@type":"NewsArticle","headline":"\"이어폰 60/60 원칙 지켜야\"…이명 예방하는 생활 속 관리법은?","datePublished":"2025-10-16","url":"https://news.hidoc.co.kr/news/articleView.html?idxno=54243","publisher":{"@type":"Organization","name":"하이닥"}},{"@type":"NewsArticle","headline":"\"귀에서 나는 삐-소리\"…젊은 층 이명 환자 증가하는 이유는?","datePublished":"2025-10-10","url":"https://news.hidoc.co.kr/news/articleView.html?idxno=54029","publisher":{"@type":"Organization","name":"하이닥"}},{"@type":"NewsArticle","headline":"코골이 뿌리 뽑으려면…맞춤 치료 위해 '수면다원검사' 필요","datePublished":"2025-03-26","url":"https://news.hidoc.co.kr/news/articleView.html?idxno=45646","publisher":{"@type":"Organization","name":"하이닥"}}]},
  "sameAs":["https://blog.naver.com/big_tree_clinic","https://map.naver.com/p/entry/place/1302284513","https://place.map.kakao.com/940563508"]
 }
 </script>
@@ -213,6 +225,7 @@ footer p{line-height:1.9}
       <a href="#equipment">검사 장비</a>
       <a href="#tour">둘러보기</a>
       <a href="#doctor">의료진</a>
+      <a href="#media">언론·영상</a>
       <a href="#visit">오시는 길</a>
     </nav>
     <a class="tel" href="tel:0319378481">031-937-8481</a>
@@ -391,6 +404,29 @@ footer p{line-height:1.9}
             </ul>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="media">
+    <div class="wrap">
+      <div class="head">
+        <p class="eyebrow">언론 · 영상</p>
+        <h2>원장이 직접 설명한 이야기</h2>
+        <p>어지럼증, 이명, 코골이에 대해 언론 인터뷰와 영상으로 설명드렸습니다.</p>
+      </div>
+      <div class="media">
+        <div class="video">
+          <iframe src="https://www.youtube-nocookie.com/embed/qdVQubP1mkE" title="남국진 원장 출연 영상" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <a class="yt" href="https://youtu.be/qdVQubP1mkE" target="_blank" rel="noopener">유튜브에서 보기</a>
+        </div>
+        <ul class="press">
+          <li><a href="https://news.hidoc.co.kr/news/articleView.html?idxno=64308" target="_blank" rel="noopener"><span class="meta"><span class="topic">어지럼증</span><time datetime="2026-07-01">2026.07.01</time> · 하이닥 인터뷰</span><span class="hl">어지럼증, 원인 따라 양상도 치료도 다르다… 꼭 알아야 할 감별 포인트는?</span></a></li>
+          <li><a href="https://news.hidoc.co.kr/news/articleView.html?idxno=57756" target="_blank" rel="noopener"><span class="meta"><span class="topic">편도결석</span><time datetime="2026-01-15">2026.01.15</time> · 하이닥 전문의 의견</span><span class="hl">목 깊숙한 곳에서 나는 악취, '편도결석'...그 원인과 치료법은?</span></a></li>
+          <li><a href="https://news.hidoc.co.kr/news/articleView.html?idxno=54243" target="_blank" rel="noopener"><span class="meta"><span class="topic">이명</span><time datetime="2025-10-16">2025.10.16</time> · 하이닥 인터뷰</span><span class="hl">"이어폰 60/60 원칙 지켜야"…이명 예방하는 생활 속 관리법은?</span></a></li>
+          <li><a href="https://news.hidoc.co.kr/news/articleView.html?idxno=54029" target="_blank" rel="noopener"><span class="meta"><span class="topic">이명</span><time datetime="2025-10-10">2025.10.10</time> · 하이닥 인터뷰</span><span class="hl">"귀에서 나는 삐-소리"…젊은 층 이명 환자 증가하는 이유는?</span></a></li>
+          <li><a href="https://news.hidoc.co.kr/news/articleView.html?idxno=45646" target="_blank" rel="noopener"><span class="meta"><span class="topic">수면무호흡</span><time datetime="2025-03-26">2025.03.26</time> · 하이닥 인터뷰</span><span class="hl">코골이 뿌리 뽑으려면…맞춤 치료 위해 '수면다원검사' 필요</span></a></li>
+        </ul>
       </div>
     </div>
   </section>
