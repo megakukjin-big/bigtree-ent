@@ -357,3 +357,24 @@ nav .more{margin-top:0}
 .own-videos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
 @media (max-width:900px){.own-videos{grid-template-columns:1fr 1fr}}
 @media (max-width:560px){.own-videos{grid-template-columns:1fr}}
+
+/* ===== 큰나무 진료노트 브랜드 ===== */
+.logo.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink)}
+.logo.brand img{height:40px;width:auto}
+.brand-txt{display:grid;line-height:1.15}
+.brand-txt b{font-family:'Gowun Batang',serif;font-size:21px;font-weight:700;letter-spacing:-.01em;color:var(--bark-deep)}
+.brand-txt small{font-size:11.5px;color:var(--muted);margin-top:3px}
+@media (max-width:860px){.logo.brand img{height:32px}.brand-txt b{font-size:18px}.brand-txt small{font-size:10.5px}}
+/* 노트 느낌: 첫 화면 괘선 */
+.hero{background-image:repeating-linear-gradient(to bottom,transparent 0 35px,color-mix(in srgb,var(--line) 55%,transparent) 35px 36px);background-position:0 18px}
+.note-tag{display:inline-flex;align-items:center;gap:8px}
+.note-tag::before{content:"";width:18px;height:2px;background:var(--bark);border-radius:2px}
+.chips a.chip{text-decoration:none;color:var(--ink)}
+.chips a.chip:hover{border-color:var(--bark)}
+/* 칼럼 본문: 노트 여백선 */
+.article.wrap{border-left:2px solid color-mix(in srgb,var(--bark) 22%,transparent);padding-left:clamp(16px,3vw,32px)}
+@media (max-width:560px){.article.wrap{border-left:0;padding-left:16px}}
+footer .fnote{font-size:13px;line-height:1.7;opacity:.9;margin:14px 0}
+footer .fnote a{color:inherit;text-decoration:underline}
+@media (max-width:480px){.brand-txt small{display:none}.logo.brand img{height:28px}.brand-txt b{font-size:17px}.bar .tel{font-size:14px}}
+@media (max-width:860px){.hero{background-image:repeating-linear-gradient(to bottom,transparent 0 35px,color-mix(in srgb,var(--line) 35%,transparent) 35px 36px)}}
