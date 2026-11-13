@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bigtree-note.vercel.app/</loc><lastmod>2026-11-11</lastmod></url>
-  <url><loc>https://bigtree-note.vercel.app/column/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://bigtree-note.vercel.app/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://bigtree-note.vercel.app/column/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/dizziness/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/hearing/</loc><lastmod>2026-11-11</lastmod></url>
-  <url><loc>https://bigtree-note.vercel.app/sleep/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://bigtree-note.vercel.app/sleep/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/nose-throat/</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/column/dizziness-not-always-bppv.html</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/column/tinnitus-sound-changed.html</loc><lastmod>2026-11-02</lastmod></url>
@@ -41,7 +41,7 @@
   <url><loc>https://bigtree-note.vercel.app/column/snoring-hypertension.html</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/column/cpap-90day-compliance.html</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/column/intratympanic-steroid.html</loc><lastmod>2026-11-02</lastmod></url>
-  <url><loc>https://bigtree-note.vercel.app/doctor/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://bigtree-note.vercel.app/doctor/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/media/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/notice/</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/fees/</loc><lastmod>2026-11-02</lastmod></url>
@@ -54,4 +54,5 @@
   <url><loc>https://bigtree-note.vercel.app/notice/access-control.html</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/column/orthostatic-hypotension.html</loc><lastmod>2026-11-10</lastmod></url>
   <url><loc>https://bigtree-note.vercel.app/column/abr.html</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://bigtree-note.vercel.app/column/nasal-strip-mouth-tape-vs-cpap.html</loc><lastmod>2026-11-13</lastmod></url>
 </urlset>

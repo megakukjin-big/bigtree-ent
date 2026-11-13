@@ -73,6 +73,7 @@
 - [양압기를 쓰고 AHI가 3으로 떨어졌다면, 완치일까요?](https://bigtree-note.vercel.app/column/cpap-residual-ahi.html): 양압기 기기 AHI와 수면다원검사 AHI의 차이, 계속 써야 하는 이유, 함께 봐야 할 사용 시간·누출량
 - [양압기는 평생 써야 하나요?](https://bigtree-note.vercel.app/column/cpap-lifelong.html): 양압기를 끊을 수 있는 경우와 판단 방법, 체중 감량·수술·구강장치 뒤 재검사
 - [코골이 치료, 양압기 말고 다른 방법은 없나요?](https://bigtree-note.vercel.app/column/snoring-treatment-options.html): 양압기, 구강장치, 체중 감량, 자세 치료, 수술의 원리와 대상, 한계 비교
+- [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtree-note.vercel.app/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
 - [코골이와 고혈압, 정말 관련이 있을까요?](https://bigtree-note.vercel.app/column/snoring-hypertension.html): 수면무호흡이 혈압을 올리는 원리, 저항성 고혈압과 수면검사, 양압기 치료의 혈압 효과
 - [양압기 건강보험, 90일 순응기간을 통과하지 못하면 어떻게 될까요?](https://bigtree-note.vercel.app/column/cpap-90day-compliance.html): 30일 중 21일·하루 4시간 순응 기준, 통과 못 하면 등록 해지와 180일 뒤 재등록, 수면검사 유효기간
 - [돌발성 난청, 고막 안에 스테로이드를 주사한다고요? 고실 내 스테로이드 주입술](https://bigtree-note.vercel.app/column/intratympanic-steroid.html): 고실 내 스테로이드 주입술의 원리와 대상, 시술 직후 자세·침 삼키기 주의, 고막 보호 수칙
