@@ -56,11 +56,8 @@
 - [귀가 아프고 먹먹하다면, 중이염의 종류와 치료](https://bigtree-note.vercel.app/column/otitis-media.html): 급성·삼출성·만성 중이염의 차이, 아이 중이염 신호와 치료
 - [감기가 낫지 않고 누런 콧물이 계속된다면, 축농증일까요?](https://bigtree-note.vercel.app/column/sinusitis.html): 급성·만성 축농증의 차이, 감기·비염과 구분하는 법, 저선량 CT와 치료
 - [감기가 자꾸 반복된다면: 반복성 호흡기 감염과 예방적 면역조절 치료](https://bigtree-note.vercel.app/column/recurrent-respiratory-infection.html): 감기가 반복되는 원인 확인부터, 세균 용해물 면역조절 치료의 근거와 복용법
-- [손주 돌보기 전에, 할머니·할아버지도 백일해 예방접종을 맞으세요](https://bigtree-note.vercel.app/column/pertussis-vaccine-grandparents.html): 어른은 증상 없이 지나가도 신생아에게는 위험한 백일해, 아기 주변 가족이 먼저 맞아야 하는 이유와 접종 시기
 - [어지럼이 반복되는데 이석증이 아니라면: 전정편두통](https://bigtree-note.vercel.app/column/vestibular-migraine.html): 두통 없이도 올 수 있는 반복성 어지럼, 이석증과의 차이와 진단 기준, 치료
 - [심인성 어지럼증이라고요? 검사로 원인을 찾기 어려운 어지럼, PPPD](https://bigtree-note.vercel.app/column/pppd.html): 검사는 정상인데 몇 달째 흔들리는 어지럼, 심인성과 무엇이 다른지와 PPPD의 진단·치료
-- [일어날 때 핑 도는 어지럼, 기립성 저혈압](https://bigtree-note.vercel.app/column/orthostatic-hypotension.html): 일어설 때 혈압이 떨어지는 이유, 이석증과의 차이, 기립 혈압 측정과 생활 관리
-- [청성뇌간반응검사(ABR), 어떤 검사이고 왜 하나요?](https://bigtree-note.vercel.app/column/abr.html): 검사 방법과 I~V파 결과 읽는 법, 영유아 청력·청각장애 진단에 쓰는 이유, 청신경종양 등 후미로성 난청 감별
 - [집먼지진드기 알레르기, 평생 약만 먹어야 할까요? 설하 면역치료](https://bigtree-note.vercel.app/column/house-dust-mite-slit.html): 집먼지진드기 알레르기 비염의 원인에 접근하는 설하 면역치료, 대상과 진행, 부작용
 - [알레르기 비염이 자꾸 재발한다면: 히스타민-면역글로불린 주사](https://bigtree-note.vercel.app/column/histamine-immunoglobulin.html): 히스타민-면역글로불린 주사의 성분과 적응증, 주사 일정, 기대할 수 있는 것과 없는 것, 설하 면역치료와의 차이
 - [감기에 항생제, 꼭 먹어야 할까요? 코 내시경으로 꼼꼼히 보는 이유](https://bigtree-note.vercel.app/column/cold-antibiotics-endoscopy.html): 누런 콧물과 세균 감염의 차이, 항생제가 필요한 경과, 코 내시경으로 확인하는 것
@@ -74,10 +71,13 @@
 - [양압기를 쓰고 AHI가 3으로 떨어졌다면, 완치일까요?](https://bigtree-note.vercel.app/column/cpap-residual-ahi.html): 양압기 기기 AHI와 수면다원검사 AHI의 차이, 계속 써야 하는 이유, 함께 봐야 할 사용 시간·누출량
 - [양압기는 평생 써야 하나요?](https://bigtree-note.vercel.app/column/cpap-lifelong.html): 양압기를 끊을 수 있는 경우와 판단 방법, 체중 감량·수술·구강장치 뒤 재검사
 - [코골이 치료, 양압기 말고 다른 방법은 없나요?](https://bigtree-note.vercel.app/column/snoring-treatment-options.html): 양압기, 구강장치, 체중 감량, 자세 치료, 수술의 원리와 대상, 한계 비교
-- [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtree-note.vercel.app/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
 - [코골이와 고혈압, 정말 관련이 있을까요?](https://bigtree-note.vercel.app/column/snoring-hypertension.html): 수면무호흡이 혈압을 올리는 원리, 저항성 고혈압과 수면검사, 양압기 치료의 혈압 효과
 - [양압기 건강보험, 90일 순응기간을 통과하지 못하면 어떻게 될까요?](https://bigtree-note.vercel.app/column/cpap-90day-compliance.html): 30일 중 21일·하루 4시간 순응 기준, 통과 못 하면 등록 해지와 180일 뒤 재등록, 수면검사 유효기간
 - [돌발성 난청, 고막 안에 스테로이드를 주사한다고요? 고실 내 스테로이드 주입술](https://bigtree-note.vercel.app/column/intratympanic-steroid.html): 고실 내 스테로이드 주입술의 원리와 대상, 시술 직후 자세·침 삼키기 주의, 고막 보호 수칙
+- [손주 돌보기 전에, 할머니·할아버지도 백일해 예방접종을 맞으세요](https://bigtree-note.vercel.app/column/pertussis-vaccine-grandparents.html): 어른은 증상 없이 지나가도 신생아에게는 위험한 백일해, 아기 주변 가족이 먼저 맞아야 하는 이유와 접종 시기
+- [청성뇌간반응검사(ABR), 어떤 검사이고 왜 하나요?](https://bigtree-note.vercel.app/column/abr.html): 검사 방법과 I~V파 결과 읽는 법, 영유아 청력·청각장애 진단에 쓰는 이유, 청신경종양 등 후미로성 난청 감별
+- [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtree-note.vercel.app/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
+- [일어날 때 핑 도는 어지럼, 기립성 저혈압](https://bigtree-note.vercel.app/column/orthostatic-hypotension.html): 일어설 때 혈압이 떨어지는 이유, 이석증과의 차이, 기립 혈압 측정과 생활 관리
 
 ## 언론 인터뷰
 - 2026.11.10 하이닥: ["완치 안 된다" 가수 우즈가 앓는 '메니에르병'… 같은 음도 다르게 들린다?](https://news.hidoc.co.kr/news/articleView.html?idxno=69895)
