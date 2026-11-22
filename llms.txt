@@ -89,6 +89,7 @@
 - [어지럼약, 계속 먹어도 괜찮을까요?](https://bigtree-note.vercel.app/column/dizziness-medication.html): 증상을 누르는 약과 원인을 치료하는 약의 차이, 오래 먹으면 안 되는 이유와 줄이는 법
 - [이석증 치료를 받은 뒤, 무엇을 조심해야 할까요](https://bigtree-note.vercel.app/column/bppv-after-treatment.html): 치료 직후 자세 제한의 근거, 남는 붕 뜬 느낌, 일상생활과 운동, 재발을 줄이는 법
 - [이석증이 나았다는데, 왜 아직 어지러울까요](https://bigtree-note.vercel.app/column/bppv-residual-dizziness.html): 이석증 치료 후 남는 어지럼의 세 가지 원인과 원인별 대처법
+- [이석증, 약으로는 치료할 수 없나요?](https://bigtree-note.vercel.app/column/bppv-medication.html): 약이 이석증을 고치지 못하는 이유, 약이 필요한 순간, 검사 전 복용과 비상약
 
 ## 언론 인터뷰
 - 2026.11.10 하이닥: ["완치 안 된다" 가수 우즈가 앓는 '메니에르병'… 같은 음도 다르게 들린다?](https://news.hidoc.co.kr/news/articleView.html?idxno=69895)
