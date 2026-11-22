@@ -86,6 +86,7 @@
 - [어지럼에 좋은 음식이 있을까요? 원인별로 다른 식습관](https://bigtree-note.vercel.app/column/dizziness-diet.html): 특정 음식보다 중요한 것, 메니에르병·전정편두통·기립성 어지럼·이석증별 식습관
 - [잠을 못 자면 왜 더 어지러울까요? 수면과 어지럼의 악순환](https://bigtree-note.vercel.app/column/sleep-dizziness.html): 수면 부족과 균형, 질환별로 잠과 얽히는 방식, 수면무호흡, 이석증과 자는 자세, 수면제 주의
 - [어지럼 영양제, 먹으면 재발이 줄어들까요?](https://bigtree-note.vercel.app/column/dizziness-supplements.html): 비타민 D, 마그네슘, 비타민 B, 은행잎 추출물, 오메가-3의 근거를 정리했습니다
+- [어지럼약, 계속 먹어도 괜찮을까요?](https://bigtree-note.vercel.app/column/dizziness-medication.html): 증상을 누르는 약과 원인을 치료하는 약의 차이, 오래 먹으면 안 되는 이유와 줄이는 법
 
 ## 언론 인터뷰
 - 2026.11.10 하이닥: ["완치 안 된다" 가수 우즈가 앓는 '메니에르병'… 같은 음도 다르게 들린다?](https://news.hidoc.co.kr/news/articleView.html?idxno=69895)
