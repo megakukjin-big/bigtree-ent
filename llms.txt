@@ -83,6 +83,7 @@
 - [같은 어지럼을 겪었는데, 왜 나만 오래갈까요](https://bigtree-note.vercel.app/column/dizziness-slow-recovery.html): 귀가 회복되어도 어지럼이 남는 이유와, 오래가는 어지럼에서 벗어나는 방법
 - [가만히 누워 있어도 방이 돈다면, 전정신경염일까요](https://bigtree-note.vercel.app/column/vestibular-neuritis.html): 이석증과 구분하는 법, 처음 며칠의 치료, 어지러운데도 약을 줄이고 움직여야 하는 이유
 - [한쪽 귀가 먹먹해지고 몇 시간씩 어지럽다면, 메니에르병](https://bigtree-note.vercel.app/column/meniere-disease.html): 반복되는 어지럼과 같은 쪽 귀의 변화, 진단 기준과 발작기·유지기 치료, 싱겁게 먹는 법
+- [어지럼에 좋은 음식이 있을까요? 원인별로 다른 식습관](https://bigtree-note.vercel.app/column/dizziness-diet.html): 특정 음식보다 중요한 것, 메니에르병·전정편두통·기립성 어지럼·이석증별 식습관
 
 ## 언론 인터뷰
 - 2026.11.10 하이닥: ["완치 안 된다" 가수 우즈가 앓는 '메니에르병'… 같은 음도 다르게 들린다?](https://news.hidoc.co.kr/news/articleView.html?idxno=69895)
