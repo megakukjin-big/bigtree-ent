@@ -185,6 +185,7 @@ section.band .col-list .topic{background:var(--paper)}
 .article .byline img{width:44px;height:44px;border-radius:50%;object-fit:cover;object-position:top}
 .article .lede{font-size:18px;margin-top:28px}
 .article h2{font-size:24px;margin:48px 0 14px}
+.article h3{font-size:19px;margin:32px 0 10px;color:var(--bark-deep)}
 .article p,.article li{font-size:17px;line-height:1.85}
 .article p+p{margin-top:14px}
 .article ul{padding-left:1.2em;display:grid;gap:6px;margin:14px 0}
