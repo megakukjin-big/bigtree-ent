@@ -53,7 +53,12 @@ jobs:
               except subprocess.CalledProcessError:
                   out = subprocess.check_output(
                       ["git", "diff", "--name-only", "--diff-filter=AM", "HEAD~1", "HEAD"], text=True)
-              urls = [u for u in (to_url(p) for p in out.split() if p.endswith(".html")) if u]
+              changed = out.split()
+              if "sitemap.xml" in changed:
+                  xml = open("sitemap.xml", encoding="utf-8").read()
+                  urls = re.findall(r"<loc>([^<]+)</loc>", xml)
+              else:
+                  urls = [u for u in (to_url(p) for p in changed if p.endswith(".html")) if u]
 
           urls = sorted(set(urls))[:10000]
           if not urls:
