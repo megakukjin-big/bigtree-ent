@@ -63,6 +63,7 @@
 - [이석증 재발, 막을 수 있을까요? 근거로 본 재발 예방](https://bigtree-note.vercel.app/column/bppv-recurrence.html): 재발은 얼마나 흔한지, 재발 위험 요인과 실제로 해 볼 만한 예방법, 굳이 하지 않아도 되는 것
 
 ### 이명 · 난청 (진료 안내: https://bigtree-note.vercel.app/hearing/)
+- [귀가 꽉 막힌 듯 먹먹하다면, 이관 문제일 수 있습니다](https://bigtree-note.vercel.app/column/eustachian-tube.html): 폐쇄성 이관기능장애와 개방성 이관의 차이, 감별할 질환, 검사와 치료
 - [소음성 난청, 산재로 인정받으면 무엇을 받을 수 있을까?](https://bigtree-note.vercel.app/column/noise-induced-hearing-loss-compensation.html): 산재 인정 기준, 장해등급과 장해급여, 보청기 지원, 퇴직 후 신청과 절차
 - [평소 있던 이명 소리가 달라졌어요, 괜찮을까요?](https://bigtree-note.vercel.app/column/tinnitus-sound-changed.html): 음색 변화, 한쪽만 커짐, 맥박 같은 소리, 청력 저하까지 확인할 신호
 - [소리는 들리는데 대화를 자꾸 놓친다면](https://bigtree-note.vercel.app/column/hearing-speech-understanding.html): 듣는 것과 알아듣는 것의 차이, 난청의 종류와 청력검사·보청기
