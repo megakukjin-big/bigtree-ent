@@ -93,6 +93,7 @@
 - [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtree-note.vercel.app/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
 
 ### 코 · 목 (진료 안내: https://bigtree-note.vercel.app/nose-throat/)
+- [내시경은 정상인데, 목소리가 이상해요](https://bigtree-note.vercel.app/column/voice-normal-larynx.html): 역류, 근긴장성 발성장애, 성대 부전마비, 노인성 음성, 호르몬·약물 원인과 진료 과정
 - [아이 기침이 4주 넘게 계속된다면, 가슴 엑스레이부터 찍어 보세요](https://bigtree-note.vercel.app/column/child-chronic-cough.html): 소아 만성 기침의 첫 검사(가슴 엑스레이·폐기능·MAST), 위험 신호, 젖은 기침과 마른 기침의 원인
 - [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtree-note.vercel.app/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
 - [미세먼지 많은 날 목이 칼칼하다면: 후두염 증상과 관리](https://bigtree-note.vercel.app/column/laryngitis-fine-dust.html): 미세먼지가 후두에 주는 영향, 후두염 증상과 치료, 목 관리법
