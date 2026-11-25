@@ -42,6 +42,7 @@
 칼럼 전문(본문 텍스트 전체): https://bigtree-note.vercel.app/llms-full.txt
 
 ### 어지럼증 (진료 안내: https://bigtree-note.vercel.app/dizziness/)
+- [거의 매일 머리가 아프다면: 만성 두통, 원인부터 다시 봐야 합니다](https://bigtree-note.vercel.app/column/chronic-daily-headache.html): 만성 편두통으로 변하는 과정, 부비동염·수면무호흡 등 확인할 원인, 약물 과용 두통, 예방 치료와 CGRP 표적 치료
 - [어지러우면 모두 이석증일까요?](https://bigtree-note.vercel.app/column/dizziness-not-always-bppv.html): 어지럼이 얼마나 가는지, 귀 증상이 함께 있는지로 원인을 좁혀 가는 방법
 - [어지럽고 토할 것 같다면, 귀일까 자율신경일까](https://bigtree-note.vercel.app/column/dizziness-vomiting.html): 구토를 동반한 어지럼의 원인 구분과 자율신경검사(기립경사검사)가 필요한 경우
 - [이석증과 메니에르병, 치료는 어떻게 다를까요](https://bigtree-note.vercel.app/column/bppv-meniere-treatment.html): 이석정복술과 재발 관리, 메니에르병 발작을 줄이는 생활 관리
