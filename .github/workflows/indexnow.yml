@@ -1,0 +1,75 @@
+name: 검색엔진에 새 글 알림 (IndexNow)
+# main에 바뀐 페이지가 올라오면 Bing·네이버 등 IndexNow 참여 검색엔진에 바로 알린다.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.html"
+      - "sitemap.xml"
+  workflow_dispatch:
+    inputs:
+      all:
+        description: "sitemap의 전체 주소를 한 번에 보내기"
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Vercel 배포가 끝날 때까지 대기
+        run: sleep 120
+      - name: 바뀐 페이지 주소를 IndexNow로 전송
+        env:
+          SEND_ALL: ${{ github.event.inputs.all }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re, subprocess, urllib.request
+          HOST = "bigtreeent.kr"
+          KEY = "dec16c5acdb7686803cbd6afd90248f1"
+          SKIP = re.compile(r"^(google|naver)[0-9a-f]+\.html$")
+
+          def to_url(path):
+              if SKIP.match(os.path.basename(path)):
+                  return None
+              if path.endswith("index.html"):
+                  path = path[: -len("index.html")]
+              return f"https://{HOST}/{path}"
+
+          if os.environ.get("SEND_ALL") == "true":
+              xml = open("sitemap.xml", encoding="utf-8").read()
+              urls = re.findall(r"<loc>([^<]+)</loc>", xml)
+          else:
+              before = os.environ.get("BEFORE") or ""
+              base = before if before and not set(before) <= {"0"} else "HEAD~1"
+              try:
+                  out = subprocess.check_output(
+                      ["git", "diff", "--name-only", "--diff-filter=AM", base, "HEAD"], text=True)
+              except subprocess.CalledProcessError:
+                  out = subprocess.check_output(
+                      ["git", "diff", "--name-only", "--diff-filter=AM", "HEAD~1", "HEAD"], text=True)
+              urls = [u for u in (to_url(p) for p in out.split() if p.endswith(".html")) if u]
+
+          urls = sorted(set(urls))[:10000]
+          if not urls:
+              print("보낼 주소 없음"); raise SystemExit(0)
+          body = json.dumps({
+              "host": HOST, "key": KEY,
+              "keyLocation": f"https://{HOST}/{KEY}.txt",
+              "urlList": urls,
+          }).encode()
+          for endpoint in ("https://api.indexnow.org/indexnow",
+                           "https://searchadvisor.naver.com/indexnow"):
+              req = urllib.request.Request(endpoint, data=body,
+                  headers={"Content-Type": "application/json; charset=utf-8"})
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      print(endpoint, r.status, len(urls), "개 주소")
+              except Exception as e:
+                  print(endpoint, "실패:", e)
+          PY
