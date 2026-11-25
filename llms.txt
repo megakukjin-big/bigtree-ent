@@ -12,7 +12,7 @@
 - 주차: 건물 지하주차장 B1~B3
 - 청각장애 진단서 발급과 국민연금공단 자료보완 재검을 원내에서 시행 (순음·어음청력검사 3회, 청성뇌간반응검사 포함).
 - 병원 공식 홈페이지: http://www.xn--vb0bl2e28lv7c8upza181np3l.com/
-- 큰나무 진료노트(칼럼·영상): https://bigtree-note.vercel.app/
+- 큰나무 진료노트(칼럼·영상): https://bigtreeent.kr/
 - 유튜브: https://www.youtube.com/@BigTreeENT
 - 네이버 블로그: https://blog.naver.com/big_tree_clinic
 
@@ -20,13 +20,13 @@
 - 이비인후과 전문의. 고려대학교 의학전문대학원 졸업, 고려대학교 안산병원 이비인후과 수석 전공의·임상강사·외래교수, 대한이비인후과학회 지도전문의.
 - 대한이과학회 어지럼 전문과정(2025.07), 난청-보청기 전문과정(2025.09), 이명 전문과정(2025.12) 수료. 수면다원검사 정도관리위원회 수면다원검사 교육이수(2026, 유효기간 2031.08).
 - 학회: 대한이비인후과학회, 대한이과학회, 대한비과학회, 대한평형의학회, 대한수면호흡학회, 천식알레르기학회 정회원.
-- 상세: https://bigtree-note.vercel.app/doctor/
+- 상세: https://bigtreeent.kr/doctor/
 
 ## 진료 분야
-- [어지럼증](https://bigtree-note.vercel.app/dizziness/): 파주 야당동 큰나무이비인후과 어지럼증 진료. 이석증, 전정신경염, 메니에르병, 기립성 어지럼을 비디오 안진검사·균형검사·자율신경검사로 구분합니다.
-- [이명 · 난청](https://bigtree-note.vercel.app/hearing/): 파주 야당동 큰나무이비인후과 이명·난청 진료. 순음·어음청력검사, 이음향방사, 청성뇌간반응검사(ABR)로 원인을 확인하고, 돌발성 난청은 빠르게 치료합니다. 청각장애 진단서 발급과 국민연금공단 자료보완 재검을 원내에서 합니다.
-- [코골이 · 수면무호흡](https://bigtree-note.vercel.app/sleep/): 파주 야당동 큰나무이비인후과 코골이·수면무호흡 진료. 원내 수면검사실에서 수면다원검사를 하고, 결과에 따라 양압기 치료와 사용 관리를 합니다.
-- [비염 · 축농증 · 만성기침](https://bigtree-note.vercel.app/nose-throat/): 파주 야당동 큰나무이비인후과 비염·축농증·만성기침·편도결석 진료. 코·목 내시경과 원내 저선량 CT로 원인을 확인합니다.
+- [어지럼증](https://bigtreeent.kr/dizziness/): 파주 야당동 큰나무이비인후과 어지럼증 진료. 이석증, 전정신경염, 메니에르병, 기립성 어지럼을 비디오 안진검사·균형검사·자율신경검사로 구분합니다.
+- [이명 · 난청](https://bigtreeent.kr/hearing/): 파주 야당동 큰나무이비인후과 이명·난청 진료. 순음·어음청력검사, 이음향방사, 청성뇌간반응검사(ABR)로 원인을 확인하고, 돌발성 난청은 빠르게 치료합니다. 청각장애 진단서 발급과 국민연금공단 자료보완 재검을 원내에서 합니다.
+- [코골이 · 수면무호흡](https://bigtreeent.kr/sleep/): 파주 야당동 큰나무이비인후과 코골이·수면무호흡 진료. 원내 수면검사실에서 수면다원검사를 하고, 결과에 따라 양압기 치료와 사용 관리를 합니다.
+- [비염 · 축농증 · 만성기침](https://bigtreeent.kr/nose-throat/): 파주 야당동 큰나무이비인후과 비염·축농증·만성기침·편도결석 진료. 코·목 내시경과 원내 저선량 CT로 원인을 확인합니다.
 
 ## 보유 검사 장비
 - 비디오 안진검사기 Interacoustics VisualEyes 525
@@ -39,73 +39,73 @@
 - 저선량 CT Genoray PAPAYA 3D
 
 ## 칼럼
-칼럼 전문(본문 텍스트 전체): https://bigtree-note.vercel.app/llms-full.txt
+칼럼 전문(본문 텍스트 전체): https://bigtreeent.kr/llms-full.txt
 
-### 어지럼증 (진료 안내: https://bigtree-note.vercel.app/dizziness/)
-- [거의 매일 머리가 아프다면: 만성 두통, 원인부터 다시 봐야 합니다](https://bigtree-note.vercel.app/column/chronic-daily-headache.html): 만성 편두통으로 변하는 과정, 부비동염·수면무호흡 등 확인할 원인, 약물 과용 두통, 예방 치료와 CGRP 표적 치료
-- [어지러우면 모두 이석증일까요?](https://bigtree-note.vercel.app/column/dizziness-not-always-bppv.html): 어지럼이 얼마나 가는지, 귀 증상이 함께 있는지로 원인을 좁혀 가는 방법
-- [어지럽고 토할 것 같다면, 귀일까 자율신경일까](https://bigtree-note.vercel.app/column/dizziness-vomiting.html): 구토를 동반한 어지럼의 원인 구분과 자율신경검사(기립경사검사)가 필요한 경우
-- [이석증과 메니에르병, 치료는 어떻게 다를까요](https://bigtree-note.vercel.app/column/bppv-meniere-treatment.html): 이석정복술과 재발 관리, 메니에르병 발작을 줄이는 생활 관리
-- [어지럼이 반복되는데 이석증이 아니라면: 전정편두통](https://bigtree-note.vercel.app/column/vestibular-migraine.html): 두통 없이도 올 수 있는 반복성 어지럼, 이석증과의 차이와 진단 기준, 치료
-- [심인성 어지럼증이라고요? 검사로 원인을 찾기 어려운 어지럼, PPPD](https://bigtree-note.vercel.app/column/pppd.html): 검사는 정상인데 몇 달째 흔들리는 어지럼, 심인성과 무엇이 다른지와 PPPD의 진단·치료
-- [일어날 때 핑 도는 어지럼, 기립성 저혈압](https://bigtree-note.vercel.app/column/orthostatic-hypotension.html): 일어설 때 혈압이 떨어지는 이유, 이석증과의 차이, 기립 혈압 측정과 생활 관리
-- [배에서 내렸는데도 계속 흔들린다면, 멀미와 상륙증후군](https://bigtree-note.vercel.app/column/motion-sickness-mdds.html): 멀미는 왜 생기고 어떻게 줄이는지, 내린 뒤에도 출렁이는 상륙증후군은 무엇인지 정리했습니다.
-- [같은 어지럼을 겪었는데, 왜 나만 오래갈까요](https://bigtree-note.vercel.app/column/dizziness-slow-recovery.html): 귀가 회복되어도 어지럼이 남는 이유와, 오래가는 어지럼에서 벗어나는 방법
-- [가만히 누워 있어도 방이 돈다면, 전정신경염일까요](https://bigtree-note.vercel.app/column/vestibular-neuritis.html): 이석증과 구분하는 법, 처음 며칠의 치료, 어지러운데도 약을 줄이고 움직여야 하는 이유
-- [한쪽 귀가 먹먹해지고 몇 시간씩 어지럽다면, 메니에르병](https://bigtree-note.vercel.app/column/meniere-disease.html): 반복되는 어지럼과 같은 쪽 귀의 변화, 진단 기준과 발작기·유지기 치료, 싱겁게 먹는 법
-- [어지럼에 좋은 음식이 있을까요? 원인별로 다른 식습관](https://bigtree-note.vercel.app/column/dizziness-diet.html): 특정 음식보다 중요한 것, 메니에르병·전정편두통·기립성 어지럼·이석증별 식습관
-- [잠을 못 자면 왜 더 어지러울까요? 수면과 어지럼의 악순환](https://bigtree-note.vercel.app/column/sleep-dizziness.html): 수면 부족과 균형, 질환별로 잠과 얽히는 방식, 수면무호흡, 이석증과 자는 자세, 수면제 주의
-- [어지럼 영양제, 먹으면 재발이 줄어들까요?](https://bigtree-note.vercel.app/column/dizziness-supplements.html): 비타민 D, 마그네슘, 비타민 B, 은행잎 추출물, 오메가-3의 근거를 정리했습니다
-- [어지럼약, 계속 먹어도 괜찮을까요?](https://bigtree-note.vercel.app/column/dizziness-medication.html): 증상을 누르는 약과 원인을 치료하는 약의 차이, 오래 먹으면 안 되는 이유와 줄이는 법
-- [이석증 치료를 받은 뒤, 무엇을 조심해야 할까요](https://bigtree-note.vercel.app/column/bppv-after-treatment.html): 치료 직후 자세 제한의 근거, 남는 붕 뜬 느낌, 일상생활과 운동, 재발을 줄이는 법
-- [이석증이 나았다는데, 왜 아직 어지러울까요](https://bigtree-note.vercel.app/column/bppv-residual-dizziness.html): 이석증 치료 후 남는 어지럼의 세 가지 원인과 원인별 대처법
-- [이석증, 약으로는 치료할 수 없나요?](https://bigtree-note.vercel.app/column/bppv-medication.html): 약이 이석증을 고치지 못하는 이유, 약이 필요한 순간, 검사 전 복용과 비상약
-- [이석증 재발, 막을 수 있을까요? 근거로 본 재발 예방](https://bigtree-note.vercel.app/column/bppv-recurrence.html): 재발은 얼마나 흔한지, 재발 위험 요인과 실제로 해 볼 만한 예방법, 굳이 하지 않아도 되는 것
+### 어지럼증 (진료 안내: https://bigtreeent.kr/dizziness/)
+- [거의 매일 머리가 아프다면: 만성 두통, 원인부터 다시 봐야 합니다](https://bigtreeent.kr/column/chronic-daily-headache.html): 만성 편두통으로 변하는 과정, 부비동염·수면무호흡 등 확인할 원인, 약물 과용 두통, 예방 치료와 CGRP 표적 치료
+- [어지러우면 모두 이석증일까요?](https://bigtreeent.kr/column/dizziness-not-always-bppv.html): 어지럼이 얼마나 가는지, 귀 증상이 함께 있는지로 원인을 좁혀 가는 방법
+- [어지럽고 토할 것 같다면, 귀일까 자율신경일까](https://bigtreeent.kr/column/dizziness-vomiting.html): 구토를 동반한 어지럼의 원인 구분과 자율신경검사(기립경사검사)가 필요한 경우
+- [이석증과 메니에르병, 치료는 어떻게 다를까요](https://bigtreeent.kr/column/bppv-meniere-treatment.html): 이석정복술과 재발 관리, 메니에르병 발작을 줄이는 생활 관리
+- [어지럼이 반복되는데 이석증이 아니라면: 전정편두통](https://bigtreeent.kr/column/vestibular-migraine.html): 두통 없이도 올 수 있는 반복성 어지럼, 이석증과의 차이와 진단 기준, 치료
+- [심인성 어지럼증이라고요? 검사로 원인을 찾기 어려운 어지럼, PPPD](https://bigtreeent.kr/column/pppd.html): 검사는 정상인데 몇 달째 흔들리는 어지럼, 심인성과 무엇이 다른지와 PPPD의 진단·치료
+- [일어날 때 핑 도는 어지럼, 기립성 저혈압](https://bigtreeent.kr/column/orthostatic-hypotension.html): 일어설 때 혈압이 떨어지는 이유, 이석증과의 차이, 기립 혈압 측정과 생활 관리
+- [배에서 내렸는데도 계속 흔들린다면, 멀미와 상륙증후군](https://bigtreeent.kr/column/motion-sickness-mdds.html): 멀미는 왜 생기고 어떻게 줄이는지, 내린 뒤에도 출렁이는 상륙증후군은 무엇인지 정리했습니다.
+- [같은 어지럼을 겪었는데, 왜 나만 오래갈까요](https://bigtreeent.kr/column/dizziness-slow-recovery.html): 귀가 회복되어도 어지럼이 남는 이유와, 오래가는 어지럼에서 벗어나는 방법
+- [가만히 누워 있어도 방이 돈다면, 전정신경염일까요](https://bigtreeent.kr/column/vestibular-neuritis.html): 이석증과 구분하는 법, 처음 며칠의 치료, 어지러운데도 약을 줄이고 움직여야 하는 이유
+- [한쪽 귀가 먹먹해지고 몇 시간씩 어지럽다면, 메니에르병](https://bigtreeent.kr/column/meniere-disease.html): 반복되는 어지럼과 같은 쪽 귀의 변화, 진단 기준과 발작기·유지기 치료, 싱겁게 먹는 법
+- [어지럼에 좋은 음식이 있을까요? 원인별로 다른 식습관](https://bigtreeent.kr/column/dizziness-diet.html): 특정 음식보다 중요한 것, 메니에르병·전정편두통·기립성 어지럼·이석증별 식습관
+- [잠을 못 자면 왜 더 어지러울까요? 수면과 어지럼의 악순환](https://bigtreeent.kr/column/sleep-dizziness.html): 수면 부족과 균형, 질환별로 잠과 얽히는 방식, 수면무호흡, 이석증과 자는 자세, 수면제 주의
+- [어지럼 영양제, 먹으면 재발이 줄어들까요?](https://bigtreeent.kr/column/dizziness-supplements.html): 비타민 D, 마그네슘, 비타민 B, 은행잎 추출물, 오메가-3의 근거를 정리했습니다
+- [어지럼약, 계속 먹어도 괜찮을까요?](https://bigtreeent.kr/column/dizziness-medication.html): 증상을 누르는 약과 원인을 치료하는 약의 차이, 오래 먹으면 안 되는 이유와 줄이는 법
+- [이석증 치료를 받은 뒤, 무엇을 조심해야 할까요](https://bigtreeent.kr/column/bppv-after-treatment.html): 치료 직후 자세 제한의 근거, 남는 붕 뜬 느낌, 일상생활과 운동, 재발을 줄이는 법
+- [이석증이 나았다는데, 왜 아직 어지러울까요](https://bigtreeent.kr/column/bppv-residual-dizziness.html): 이석증 치료 후 남는 어지럼의 세 가지 원인과 원인별 대처법
+- [이석증, 약으로는 치료할 수 없나요?](https://bigtreeent.kr/column/bppv-medication.html): 약이 이석증을 고치지 못하는 이유, 약이 필요한 순간, 검사 전 복용과 비상약
+- [이석증 재발, 막을 수 있을까요? 근거로 본 재발 예방](https://bigtreeent.kr/column/bppv-recurrence.html): 재발은 얼마나 흔한지, 재발 위험 요인과 실제로 해 볼 만한 예방법, 굳이 하지 않아도 되는 것
 
-### 이명 · 난청 (진료 안내: https://bigtree-note.vercel.app/hearing/)
-- [귀가 아픈데 귀에는 이상이 없다고요? 다른 곳에서 오는 귀 통증](https://bigtree-note.vercel.app/column/ear-pain-referred.html): 귀 자체의 통증과 연관통의 구분, 치아·턱관절과 신경통, 악성 외이도염·외이도암 신호
-- [귀가 꽉 막힌 듯 먹먹하다면, 이관 문제일 수 있습니다](https://bigtree-note.vercel.app/column/eustachian-tube.html): 폐쇄성 이관기능장애와 개방성 이관의 차이, 감별할 질환, 검사와 치료
-- [소음성 난청, 산재로 인정받으면 무엇을 받을 수 있을까?](https://bigtree-note.vercel.app/column/noise-induced-hearing-loss-compensation.html): 산재 인정 기준, 장해등급과 장해급여, 보청기 지원, 퇴직 후 신청과 절차
-- [평소 있던 이명 소리가 달라졌어요, 괜찮을까요?](https://bigtree-note.vercel.app/column/tinnitus-sound-changed.html): 음색 변화, 한쪽만 커짐, 맥박 같은 소리, 청력 저하까지 확인할 신호
-- [소리는 들리는데 대화를 자꾸 놓친다면](https://bigtree-note.vercel.app/column/hearing-speech-understanding.html): 듣는 것과 알아듣는 것의 차이, 난청의 종류와 청력검사·보청기
-- [사격 후 생긴 이명, 기다려도 될까요?](https://bigtree-note.vercel.app/column/tinnitus-after-shooting.html): 음향외상 뒤 지켜봐도 되는 경우와 바로 청력검사가 필요한 신호, TMS 치료
-- [한쪽 귀가 갑자기 먹먹하다면, 돌발성 난청일 수 있습니다](https://bigtree-note.vercel.app/column/sudden-hearing-loss.html): 돌발성 난청의 초기 신호, 귀지·중이염과의 구분, 빨리 치료해야 하는 이유
-- [참고 넘긴 이명이 만성이 되기 전에: 이명의 종류와 TMS 치료](https://bigtree-note.vercel.app/column/tinnitus-tms.html): 자각적·타각적 이명의 차이, 약물·보청기·경두개자기자극(TMS) 치료
-- [청각장애 진단 검사와 자료보완 재검, 어떻게 준비할까요](https://bigtree-note.vercel.app/column/hearing-disability-test.html): 청각장애 정도 기준, 3회 검사와 ABR, 자료보완 사유와 재검 준비
-- [귀가 아프고 먹먹하다면, 중이염의 종류와 치료](https://bigtree-note.vercel.app/column/otitis-media.html): 급성·삼출성·만성 중이염의 차이, 아이 중이염 신호와 치료
-- [귀가 웅웅하고 먹먹한데, 청력검사까지 해야 하나요?](https://bigtree-note.vercel.app/column/ear-fullness-low-tone.html): 대화는 잘 들려도 놓치기 쉬운 저음역 난청, 먹먹함의 원인 구분과 청력검사
-- [청각장애 등록, 어떤 검사가 필요할까요? 청력검사부터 ABR, 6개월 원칙까지](https://bigtree-note.vercel.app/column/hearing-disability-registration.html): 청각장애 판정 기준, 순음청력검사 3회와 ABR, 6분법, 6개월 이상 고착된 난청과 과거 기록의 중요성
-- [돌발성 난청, 고막 안에 스테로이드를 주사한다고요? 고실 내 스테로이드 주입술](https://bigtree-note.vercel.app/column/intratympanic-steroid.html): 고실 내 스테로이드 주입술의 원리와 대상, 시술 직후 자세·침 삼키기 주의, 고막 보호 수칙
-- [청성뇌간반응검사(ABR), 어떤 검사이고 왜 하나요?](https://bigtree-note.vercel.app/column/abr.html): 검사 방법과 I~V파 결과 읽는 법, 영유아 청력·청각장애 진단에 쓰는 이유, 청신경종양 등 후미로성 난청 감별
-- [외이도염이 심할 때, 이어폰은 오픈형으로 바꿔 보세요](https://bigtree-note.vercel.app/column/otitis-externa-earphones.html): 커널형 이어폰이 외이도에 부담을 주는 이유, 외이도를 막지 않는 오픈형·골전도 이어폰, 외이도염 치료와 관리
+### 이명 · 난청 (진료 안내: https://bigtreeent.kr/hearing/)
+- [귀가 아픈데 귀에는 이상이 없다고요? 다른 곳에서 오는 귀 통증](https://bigtreeent.kr/column/ear-pain-referred.html): 귀 자체의 통증과 연관통의 구분, 치아·턱관절과 신경통, 악성 외이도염·외이도암 신호
+- [귀가 꽉 막힌 듯 먹먹하다면, 이관 문제일 수 있습니다](https://bigtreeent.kr/column/eustachian-tube.html): 폐쇄성 이관기능장애와 개방성 이관의 차이, 감별할 질환, 검사와 치료
+- [소음성 난청, 산재로 인정받으면 무엇을 받을 수 있을까?](https://bigtreeent.kr/column/noise-induced-hearing-loss-compensation.html): 산재 인정 기준, 장해등급과 장해급여, 보청기 지원, 퇴직 후 신청과 절차
+- [평소 있던 이명 소리가 달라졌어요, 괜찮을까요?](https://bigtreeent.kr/column/tinnitus-sound-changed.html): 음색 변화, 한쪽만 커짐, 맥박 같은 소리, 청력 저하까지 확인할 신호
+- [소리는 들리는데 대화를 자꾸 놓친다면](https://bigtreeent.kr/column/hearing-speech-understanding.html): 듣는 것과 알아듣는 것의 차이, 난청의 종류와 청력검사·보청기
+- [사격 후 생긴 이명, 기다려도 될까요?](https://bigtreeent.kr/column/tinnitus-after-shooting.html): 음향외상 뒤 지켜봐도 되는 경우와 바로 청력검사가 필요한 신호, TMS 치료
+- [한쪽 귀가 갑자기 먹먹하다면, 돌발성 난청일 수 있습니다](https://bigtreeent.kr/column/sudden-hearing-loss.html): 돌발성 난청의 초기 신호, 귀지·중이염과의 구분, 빨리 치료해야 하는 이유
+- [참고 넘긴 이명이 만성이 되기 전에: 이명의 종류와 TMS 치료](https://bigtreeent.kr/column/tinnitus-tms.html): 자각적·타각적 이명의 차이, 약물·보청기·경두개자기자극(TMS) 치료
+- [청각장애 진단 검사와 자료보완 재검, 어떻게 준비할까요](https://bigtreeent.kr/column/hearing-disability-test.html): 청각장애 정도 기준, 3회 검사와 ABR, 자료보완 사유와 재검 준비
+- [귀가 아프고 먹먹하다면, 중이염의 종류와 치료](https://bigtreeent.kr/column/otitis-media.html): 급성·삼출성·만성 중이염의 차이, 아이 중이염 신호와 치료
+- [귀가 웅웅하고 먹먹한데, 청력검사까지 해야 하나요?](https://bigtreeent.kr/column/ear-fullness-low-tone.html): 대화는 잘 들려도 놓치기 쉬운 저음역 난청, 먹먹함의 원인 구분과 청력검사
+- [청각장애 등록, 어떤 검사가 필요할까요? 청력검사부터 ABR, 6개월 원칙까지](https://bigtreeent.kr/column/hearing-disability-registration.html): 청각장애 판정 기준, 순음청력검사 3회와 ABR, 6분법, 6개월 이상 고착된 난청과 과거 기록의 중요성
+- [돌발성 난청, 고막 안에 스테로이드를 주사한다고요? 고실 내 스테로이드 주입술](https://bigtreeent.kr/column/intratympanic-steroid.html): 고실 내 스테로이드 주입술의 원리와 대상, 시술 직후 자세·침 삼키기 주의, 고막 보호 수칙
+- [청성뇌간반응검사(ABR), 어떤 검사이고 왜 하나요?](https://bigtreeent.kr/column/abr.html): 검사 방법과 I~V파 결과 읽는 법, 영유아 청력·청각장애 진단에 쓰는 이유, 청신경종양 등 후미로성 난청 감별
+- [외이도염이 심할 때, 이어폰은 오픈형으로 바꿔 보세요](https://bigtreeent.kr/column/otitis-externa-earphones.html): 커널형 이어폰이 외이도에 부담을 주는 이유, 외이도를 막지 않는 오픈형·골전도 이어폰, 외이도염 치료와 관리
 
-### 코골이 · 수면 (진료 안내: https://bigtree-note.vercel.app/sleep/)
-- [누워도 한 시간 넘게 잠이 안 온다면](https://bigtree-note.vercel.app/column/insomnia-cbti.html): 수면제와 다른 접근, 불면증 인지행동치료(CBT-I)와 디지털 치료
-- [충분히 잤는데도 개운하지 않다면](https://bigtree-note.vercel.app/column/unrefreshing-sleep.html): 수면무호흡, 불면증, 생활 리듬 중 무엇이 원인인지 구분하는 법
-- [수면다원검사, 나에게 필요할까요?](https://bigtree-note.vercel.app/column/psg-do-i-need.html): 코골이와 수면무호흡의 차이, 검사가 필요한 신호와 수면다원검사에서 보는 것
-- [수면검사를 왜 두 번 하나요? 수면무호흡 진단부터 양압기 적정압력검사까지](https://bigtree-note.vercel.app/column/psg-cpap-titration.html): 진단용 수면다원검사와 양압기 적정압력검사의 차이, AHI 중증도, 건강보험 기준과 90일 순응 기간
-- [양압기, 처음 쓰면 불편한 게 정상인가요?](https://bigtree-note.vercel.app/column/cpap-adaptation.html): 마스크 답답함, 코막힘·입마름, 공기 누출, 강한 압력의 원인과 조정 방법
-- [양압기를 쓰고 AHI가 3으로 떨어졌다면, 완치일까요?](https://bigtree-note.vercel.app/column/cpap-residual-ahi.html): 양압기 기기 AHI와 수면다원검사 AHI의 차이, 계속 써야 하는 이유, 함께 봐야 할 사용 시간·누출량
-- [양압기는 평생 써야 하나요?](https://bigtree-note.vercel.app/column/cpap-lifelong.html): 양압기를 끊을 수 있는 경우와 판단 방법, 체중 감량·수술·구강장치 뒤 재검사
-- [코골이 치료, 양압기 말고 다른 방법은 없나요?](https://bigtree-note.vercel.app/column/snoring-treatment-options.html): 양압기, 구강장치, 체중 감량, 자세 치료, 수술의 원리와 대상, 한계 비교
-- [코골이와 고혈압, 정말 관련이 있을까요?](https://bigtree-note.vercel.app/column/snoring-hypertension.html): 수면무호흡이 혈압을 올리는 원리, 저항성 고혈압과 수면검사, 양압기 치료의 혈압 효과
-- [양압기 건강보험, 90일 순응기간을 통과하지 못하면 어떻게 될까요?](https://bigtree-note.vercel.app/column/cpap-90day-compliance.html): 30일 중 21일·하루 4시간 순응 기준, 통과 못 하면 등록 해지와 180일 뒤 재등록, 수면검사 유효기간
-- [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtree-note.vercel.app/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
+### 코골이 · 수면 (진료 안내: https://bigtreeent.kr/sleep/)
+- [누워도 한 시간 넘게 잠이 안 온다면](https://bigtreeent.kr/column/insomnia-cbti.html): 수면제와 다른 접근, 불면증 인지행동치료(CBT-I)와 디지털 치료
+- [충분히 잤는데도 개운하지 않다면](https://bigtreeent.kr/column/unrefreshing-sleep.html): 수면무호흡, 불면증, 생활 리듬 중 무엇이 원인인지 구분하는 법
+- [수면다원검사, 나에게 필요할까요?](https://bigtreeent.kr/column/psg-do-i-need.html): 코골이와 수면무호흡의 차이, 검사가 필요한 신호와 수면다원검사에서 보는 것
+- [수면검사를 왜 두 번 하나요? 수면무호흡 진단부터 양압기 적정압력검사까지](https://bigtreeent.kr/column/psg-cpap-titration.html): 진단용 수면다원검사와 양압기 적정압력검사의 차이, AHI 중증도, 건강보험 기준과 90일 순응 기간
+- [양압기, 처음 쓰면 불편한 게 정상인가요?](https://bigtreeent.kr/column/cpap-adaptation.html): 마스크 답답함, 코막힘·입마름, 공기 누출, 강한 압력의 원인과 조정 방법
+- [양압기를 쓰고 AHI가 3으로 떨어졌다면, 완치일까요?](https://bigtreeent.kr/column/cpap-residual-ahi.html): 양압기 기기 AHI와 수면다원검사 AHI의 차이, 계속 써야 하는 이유, 함께 봐야 할 사용 시간·누출량
+- [양압기는 평생 써야 하나요?](https://bigtreeent.kr/column/cpap-lifelong.html): 양압기를 끊을 수 있는 경우와 판단 방법, 체중 감량·수술·구강장치 뒤 재검사
+- [코골이 치료, 양압기 말고 다른 방법은 없나요?](https://bigtreeent.kr/column/snoring-treatment-options.html): 양압기, 구강장치, 체중 감량, 자세 치료, 수술의 원리와 대상, 한계 비교
+- [코골이와 고혈압, 정말 관련이 있을까요?](https://bigtreeent.kr/column/snoring-hypertension.html): 수면무호흡이 혈압을 올리는 원리, 저항성 고혈압과 수면검사, 양압기 치료의 혈압 효과
+- [양압기 건강보험, 90일 순응기간을 통과하지 못하면 어떻게 될까요?](https://bigtreeent.kr/column/cpap-90day-compliance.html): 30일 중 21일·하루 4시간 순응 기준, 통과 못 하면 등록 해지와 180일 뒤 재등록, 수면검사 유효기간
+- [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtreeent.kr/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
 
-### 코 · 목 (진료 안내: https://bigtree-note.vercel.app/nose-throat/)
-- [내시경은 정상인데, 목소리가 이상해요](https://bigtree-note.vercel.app/column/voice-normal-larynx.html): 역류, 근긴장성 발성장애, 성대 부전마비, 노인성 음성, 호르몬·약물 원인과 진료 과정
-- [아이 기침이 4주 넘게 계속된다면, 가슴 엑스레이부터 찍어 보세요](https://bigtree-note.vercel.app/column/child-chronic-cough.html): 소아 만성 기침의 첫 검사(가슴 엑스레이·폐기능·MAST), 위험 신호, 젖은 기침과 마른 기침의 원인
-- [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtree-note.vercel.app/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
-- [미세먼지 많은 날 목이 칼칼하다면: 후두염 증상과 관리](https://bigtree-note.vercel.app/column/laryngitis-fine-dust.html): 미세먼지가 후두에 주는 영향, 후두염 증상과 치료, 목 관리법
-- [감기가 낫지 않고 누런 콧물이 계속된다면, 축농증일까요?](https://bigtree-note.vercel.app/column/sinusitis.html): 급성·만성 축농증의 차이, 감기·비염과 구분하는 법, 저선량 CT와 치료
-- [감기가 자꾸 반복된다면: 반복성 호흡기 감염과 예방적 면역조절 치료](https://bigtree-note.vercel.app/column/recurrent-respiratory-infection.html): 감기가 반복되는 원인 확인부터, 세균 용해물 면역조절 치료의 근거와 복용법
-- [집먼지진드기 알레르기, 평생 약만 먹어야 할까요? 설하 면역치료](https://bigtree-note.vercel.app/column/house-dust-mite-slit.html): 집먼지진드기 알레르기 비염의 원인에 접근하는 설하 면역치료, 대상과 진행, 부작용
-- [알레르기 비염이 자꾸 재발한다면: 히스타민-면역글로불린 주사](https://bigtree-note.vercel.app/column/histamine-immunoglobulin.html): 히스타민-면역글로불린 주사의 성분과 적응증, 주사 일정, 기대할 수 있는 것과 없는 것, 설하 면역치료와의 차이
-- [감기에 항생제, 꼭 먹어야 할까요? 코 내시경으로 꼼꼼히 보는 이유](https://bigtree-note.vercel.app/column/cold-antibiotics-endoscopy.html): 누런 콧물과 세균 감염의 차이, 항생제가 필요한 경과, 코 내시경으로 확인하는 것
-- [스테로이드 코 스프레이, 매일 뿌려도 괜찮을까요?](https://bigtree-note.vercel.app/column/nasal-steroid-spray.html): 비강 스테로이드 분무제의 안전성, 혈관수축제 스프레이와의 차이, 올바르게 뿌리는 법
-- [목이 불편한데 후두 내시경까지 해야 하나요? 성대를 직접 봐야 하는 이유](https://bigtree-note.vercel.app/column/laryngoscopy.html): 쉰 목소리와 목 이물감, 후두 내시경으로 확인하는 성대마비·결절·용종·역류·종양
-- [목에 뭔가 걸린 느낌, 헛기침이 계속된다면: 인후두 역류질환](https://bigtree-note.vercel.app/column/lpr.html): 가슴 쓰림 없이 목에만 오는 역류, 증상과 후두 내시경 소견, 치료와 생활 습관
-- [손주 돌보기 전에, 할머니·할아버지도 백일해 예방접종을 맞으세요](https://bigtree-note.vercel.app/column/pertussis-vaccine-grandparents.html): 어른은 증상 없이 지나가도 신생아에게는 위험한 백일해, 아기 주변 가족이 먼저 맞아야 하는 이유와 접종 시기
+### 코 · 목 (진료 안내: https://bigtreeent.kr/nose-throat/)
+- [내시경은 정상인데, 목소리가 이상해요](https://bigtreeent.kr/column/voice-normal-larynx.html): 역류, 근긴장성 발성장애, 성대 부전마비, 노인성 음성, 호르몬·약물 원인과 진료 과정
+- [아이 기침이 4주 넘게 계속된다면, 가슴 엑스레이부터 찍어 보세요](https://bigtreeent.kr/column/child-chronic-cough.html): 소아 만성 기침의 첫 검사(가슴 엑스레이·폐기능·MAST), 위험 신호, 젖은 기침과 마른 기침의 원인
+- [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtreeent.kr/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
+- [미세먼지 많은 날 목이 칼칼하다면: 후두염 증상과 관리](https://bigtreeent.kr/column/laryngitis-fine-dust.html): 미세먼지가 후두에 주는 영향, 후두염 증상과 치료, 목 관리법
+- [감기가 낫지 않고 누런 콧물이 계속된다면, 축농증일까요?](https://bigtreeent.kr/column/sinusitis.html): 급성·만성 축농증의 차이, 감기·비염과 구분하는 법, 저선량 CT와 치료
+- [감기가 자꾸 반복된다면: 반복성 호흡기 감염과 예방적 면역조절 치료](https://bigtreeent.kr/column/recurrent-respiratory-infection.html): 감기가 반복되는 원인 확인부터, 세균 용해물 면역조절 치료의 근거와 복용법
+- [집먼지진드기 알레르기, 평생 약만 먹어야 할까요? 설하 면역치료](https://bigtreeent.kr/column/house-dust-mite-slit.html): 집먼지진드기 알레르기 비염의 원인에 접근하는 설하 면역치료, 대상과 진행, 부작용
+- [알레르기 비염이 자꾸 재발한다면: 히스타민-면역글로불린 주사](https://bigtreeent.kr/column/histamine-immunoglobulin.html): 히스타민-면역글로불린 주사의 성분과 적응증, 주사 일정, 기대할 수 있는 것과 없는 것, 설하 면역치료와의 차이
+- [감기에 항생제, 꼭 먹어야 할까요? 코 내시경으로 꼼꼼히 보는 이유](https://bigtreeent.kr/column/cold-antibiotics-endoscopy.html): 누런 콧물과 세균 감염의 차이, 항생제가 필요한 경과, 코 내시경으로 확인하는 것
+- [스테로이드 코 스프레이, 매일 뿌려도 괜찮을까요?](https://bigtreeent.kr/column/nasal-steroid-spray.html): 비강 스테로이드 분무제의 안전성, 혈관수축제 스프레이와의 차이, 올바르게 뿌리는 법
+- [목이 불편한데 후두 내시경까지 해야 하나요? 성대를 직접 봐야 하는 이유](https://bigtreeent.kr/column/laryngoscopy.html): 쉰 목소리와 목 이물감, 후두 내시경으로 확인하는 성대마비·결절·용종·역류·종양
+- [목에 뭔가 걸린 느낌, 헛기침이 계속된다면: 인후두 역류질환](https://bigtreeent.kr/column/lpr.html): 가슴 쓰림 없이 목에만 오는 역류, 증상과 후두 내시경 소견, 치료와 생활 습관
+- [손주 돌보기 전에, 할머니·할아버지도 백일해 예방접종을 맞으세요](https://bigtreeent.kr/column/pertussis-vaccine-grandparents.html): 어른은 증상 없이 지나가도 신생아에게는 위험한 백일해, 아기 주변 가족이 먼저 맞아야 하는 이유와 접종 시기
 
 
 ## 언론 인터뷰

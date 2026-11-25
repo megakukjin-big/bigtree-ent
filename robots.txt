@@ -44,4 +44,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://bigtree-note.vercel.app/sitemap.xml
+Sitemap: https://bigtreeent.kr/sitemap.xml
