@@ -82,6 +82,10 @@
 - [검사가 꼭 필요한 이명: 한쪽 이명, 맥박처럼 뛰는 이명](https://bigtreeent.kr/column/tinnitus-when-imaging.html): 대부분의 이명은 영상검사가 필요 없지만, MRI 등으로 원인을 확인해야 하는 네 가지 경우
 - [이명 검사 결과, 어떻게 읽나요? 청력검사, 이명도 검사, THI 점수](https://bigtreeent.kr/column/tinnitus-test-results.html): 청력검사, 이명의 높이·크기, 이명 장애 지수(THI) 점수가 각각 뜻하는 것
 - [이명 때문에 잠 못 들고 불안하다면: 인지행동치료](https://bigtreeent.kr/column/tinnitus-cbt.html): 이명 소리보다 괴로움을 줄이는 치료, 근거와 내용, 이명과 불면을 함께 다루는 법
+- [이명은 왜 생길까요? 귀에서 시작해 뇌가 키우는 소리](https://bigtreeent.kr/column/tinnitus-why.html): 성인 7명 중 1명이 겪는 이명, 난청에서 시작해 뇌가 키우는 원리와 습관화
+- [난청과 이명이 함께 있다면, 보청기가 이명도 줄여 줄까요?](https://bigtreeent.kr/column/tinnitus-hearing-aid.html): 보청기가 이명에 작용하는 원리, 진료지침과 근거, 도움이 되는 분과 고려할 점
+- [이명이 있을 때 오히려 하지 말아야 할 것, 커피는 끊어야 할까요?](https://bigtreeent.kr/column/tinnitus-dos-donts.html): 너무 조용한 환경, 귀마개 남용, 소리 확인하기 등 피할 것과 굳이 끊지 않아도 되는 것
+- [아이가 귀에서 소리가 난다고 한다면](https://bigtreeent.kr/column/tinnitus-children.html): 아이 이명은 생각보다 흔합니다. 흔한 원인과 병원 검사, 부모님이 해 줄 수 있는 것
 
 ### 코골이 · 수면 (진료 안내: https://bigtreeent.kr/sleep/)
 - [누워도 한 시간 넘게 잠이 안 온다면](https://bigtreeent.kr/column/insomnia-cbti.html): 수면제와 다른 접근, 불면증 인지행동치료(CBT-I)와 디지털 치료
