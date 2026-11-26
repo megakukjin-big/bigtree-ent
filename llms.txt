@@ -42,7 +42,6 @@
 칼럼 전문(본문 텍스트 전체): https://bigtreeent.kr/llms-full.txt
 
 ### 어지럼증 (진료 안내: https://bigtreeent.kr/dizziness/)
-- [거의 매일 머리가 아프다면: 만성 두통, 원인부터 다시 봐야 합니다](https://bigtreeent.kr/column/chronic-daily-headache.html): 만성 편두통으로 변하는 과정, 부비동염·수면무호흡 등 확인할 원인, 약물 과용 두통, 예방 치료와 CGRP 표적 치료
 - [어지러우면 모두 이석증일까요?](https://bigtreeent.kr/column/dizziness-not-always-bppv.html): 어지럼이 얼마나 가는지, 귀 증상이 함께 있는지로 원인을 좁혀 가는 방법
 - [어지럽고 토할 것 같다면, 귀일까 자율신경일까](https://bigtreeent.kr/column/dizziness-vomiting.html): 구토를 동반한 어지럼의 원인 구분과 자율신경검사(기립경사검사)가 필요한 경우
 - [이석증과 메니에르병, 치료는 어떻게 다를까요](https://bigtreeent.kr/column/bppv-meniere-treatment.html): 이석정복술과 재발 관리, 메니에르병 발작을 줄이는 생활 관리
@@ -61,11 +60,9 @@
 - [이석증이 나았다는데, 왜 아직 어지러울까요](https://bigtreeent.kr/column/bppv-residual-dizziness.html): 이석증 치료 후 남는 어지럼의 세 가지 원인과 원인별 대처법
 - [이석증, 약으로는 치료할 수 없나요?](https://bigtreeent.kr/column/bppv-medication.html): 약이 이석증을 고치지 못하는 이유, 약이 필요한 순간, 검사 전 복용과 비상약
 - [이석증 재발, 막을 수 있을까요? 근거로 본 재발 예방](https://bigtreeent.kr/column/bppv-recurrence.html): 재발은 얼마나 흔한지, 재발 위험 요인과 실제로 해 볼 만한 예방법, 굳이 하지 않아도 되는 것
+- [거의 매일 머리가 아프다면: 만성 두통, 원인부터 다시 봐야 합니다](https://bigtreeent.kr/column/chronic-daily-headache.html): 만성 편두통으로 변하는 과정, 부비동염·수면무호흡 등 확인할 원인, 약물 과용 두통, 예방 치료와 CGRP 표적 치료
 
 ### 이명 · 난청 (진료 안내: https://bigtreeent.kr/hearing/)
-- [귀가 아픈데 귀에는 이상이 없다고요? 다른 곳에서 오는 귀 통증](https://bigtreeent.kr/column/ear-pain-referred.html): 귀 자체의 통증과 연관통의 구분, 치아·턱관절과 신경통, 악성 외이도염·외이도암 신호
-- [귀가 꽉 막힌 듯 먹먹하다면, 이관 문제일 수 있습니다](https://bigtreeent.kr/column/eustachian-tube.html): 폐쇄성 이관기능장애와 개방성 이관의 차이, 감별할 질환, 검사와 치료
-- [소음성 난청, 산재로 인정받으면 무엇을 받을 수 있을까?](https://bigtreeent.kr/column/noise-induced-hearing-loss-compensation.html): 산재 인정 기준, 장해등급과 장해급여, 보청기 지원, 퇴직 후 신청과 절차
 - [평소 있던 이명 소리가 달라졌어요, 괜찮을까요?](https://bigtreeent.kr/column/tinnitus-sound-changed.html): 음색 변화, 한쪽만 커짐, 맥박 같은 소리, 청력 저하까지 확인할 신호
 - [소리는 들리는데 대화를 자꾸 놓친다면](https://bigtreeent.kr/column/hearing-speech-understanding.html): 듣는 것과 알아듣는 것의 차이, 난청의 종류와 청력검사·보청기
 - [사격 후 생긴 이명, 기다려도 될까요?](https://bigtreeent.kr/column/tinnitus-after-shooting.html): 음향외상 뒤 지켜봐도 되는 경우와 바로 청력검사가 필요한 신호, TMS 치료
@@ -78,6 +75,13 @@
 - [돌발성 난청, 고막 안에 스테로이드를 주사한다고요? 고실 내 스테로이드 주입술](https://bigtreeent.kr/column/intratympanic-steroid.html): 고실 내 스테로이드 주입술의 원리와 대상, 시술 직후 자세·침 삼키기 주의, 고막 보호 수칙
 - [청성뇌간반응검사(ABR), 어떤 검사이고 왜 하나요?](https://bigtreeent.kr/column/abr.html): 검사 방법과 I~V파 결과 읽는 법, 영유아 청력·청각장애 진단에 쓰는 이유, 청신경종양 등 후미로성 난청 감별
 - [외이도염이 심할 때, 이어폰은 오픈형으로 바꿔 보세요](https://bigtreeent.kr/column/otitis-externa-earphones.html): 커널형 이어폰이 외이도에 부담을 주는 이유, 외이도를 막지 않는 오픈형·골전도 이어폰, 외이도염 치료와 관리
+- [귀가 아픈데 귀에는 이상이 없다고요? 다른 곳에서 오는 귀 통증](https://bigtreeent.kr/column/ear-pain-referred.html): 귀 자체의 통증과 연관통의 구분, 치아·턱관절과 신경통, 악성 외이도염·외이도암 신호
+- [귀가 꽉 막힌 듯 먹먹하다면, 이관 문제일 수 있습니다](https://bigtreeent.kr/column/eustachian-tube.html): 폐쇄성 이관기능장애와 개방성 이관의 차이, 감별할 질환, 검사와 치료
+- [소음성 난청, 산재로 인정받으면 무엇을 받을 수 있을까?](https://bigtreeent.kr/column/noise-induced-hearing-loss-compensation.html): 산재 인정 기준, 장해등급과 장해급여, 보청기 지원, 퇴직 후 신청과 절차
+- [이명에 좋은 약이나 영양제가 있을까요?](https://bigtreeent.kr/column/tinnitus-medication.html): 이명 소리를 없애는 약이 없는 이유, 진료지침의 판단, 그래도 약이 필요한 경우와 근거 있는 대안
+- [검사가 꼭 필요한 이명: 한쪽 이명, 맥박처럼 뛰는 이명](https://bigtreeent.kr/column/tinnitus-when-imaging.html): 대부분의 이명은 영상검사가 필요 없지만, MRI 등으로 원인을 확인해야 하는 네 가지 경우
+- [이명 검사 결과, 어떻게 읽나요? 청력검사, 이명도 검사, THI 점수](https://bigtreeent.kr/column/tinnitus-test-results.html): 청력검사, 이명의 높이·크기, 이명 장애 지수(THI) 점수가 각각 뜻하는 것
+- [이명 때문에 잠 못 들고 불안하다면: 인지행동치료](https://bigtreeent.kr/column/tinnitus-cbt.html): 이명 소리보다 괴로움을 줄이는 치료, 근거와 내용, 이명과 불면을 함께 다루는 법
 
 ### 코골이 · 수면 (진료 안내: https://bigtreeent.kr/sleep/)
 - [누워도 한 시간 넘게 잠이 안 온다면](https://bigtreeent.kr/column/insomnia-cbti.html): 수면제와 다른 접근, 불면증 인지행동치료(CBT-I)와 디지털 치료
@@ -93,8 +97,6 @@
 - [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtreeent.kr/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
 
 ### 코 · 목 (진료 안내: https://bigtreeent.kr/nose-throat/)
-- [내시경은 정상인데, 목소리가 이상해요](https://bigtreeent.kr/column/voice-normal-larynx.html): 역류, 근긴장성 발성장애, 성대 부전마비, 노인성 음성, 호르몬·약물 원인과 진료 과정
-- [아이 기침이 4주 넘게 계속된다면, 가슴 엑스레이부터 찍어 보세요](https://bigtreeent.kr/column/child-chronic-cough.html): 소아 만성 기침의 첫 검사(가슴 엑스레이·폐기능·MAST), 위험 신호, 젖은 기침과 마른 기침의 원인
 - [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtreeent.kr/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
 - [미세먼지 많은 날 목이 칼칼하다면: 후두염 증상과 관리](https://bigtreeent.kr/column/laryngitis-fine-dust.html): 미세먼지가 후두에 주는 영향, 후두염 증상과 치료, 목 관리법
 - [감기가 낫지 않고 누런 콧물이 계속된다면, 축농증일까요?](https://bigtreeent.kr/column/sinusitis.html): 급성·만성 축농증의 차이, 감기·비염과 구분하는 법, 저선량 CT와 치료
@@ -106,6 +108,8 @@
 - [목이 불편한데 후두 내시경까지 해야 하나요? 성대를 직접 봐야 하는 이유](https://bigtreeent.kr/column/laryngoscopy.html): 쉰 목소리와 목 이물감, 후두 내시경으로 확인하는 성대마비·결절·용종·역류·종양
 - [목에 뭔가 걸린 느낌, 헛기침이 계속된다면: 인후두 역류질환](https://bigtreeent.kr/column/lpr.html): 가슴 쓰림 없이 목에만 오는 역류, 증상과 후두 내시경 소견, 치료와 생활 습관
 - [손주 돌보기 전에, 할머니·할아버지도 백일해 예방접종을 맞으세요](https://bigtreeent.kr/column/pertussis-vaccine-grandparents.html): 어른은 증상 없이 지나가도 신생아에게는 위험한 백일해, 아기 주변 가족이 먼저 맞아야 하는 이유와 접종 시기
+- [아이 기침이 4주 넘게 계속된다면, 가슴 엑스레이부터 찍어 보세요](https://bigtreeent.kr/column/child-chronic-cough.html): 소아 만성 기침의 첫 검사(가슴 엑스레이·폐기능·MAST), 위험 신호, 젖은 기침과 마른 기침의 원인
+- [내시경은 정상인데, 목소리가 이상해요](https://bigtreeent.kr/column/voice-normal-larynx.html): 역류, 근긴장성 발성장애, 성대 부전마비, 노인성 음성, 호르몬·약물 원인과 진료 과정
 
 
 ## 언론 인터뷰
