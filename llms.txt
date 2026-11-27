@@ -110,6 +110,13 @@
 - [코골이와 고혈압, 정말 관련이 있을까요?](https://bigtreeent.kr/column/snoring-hypertension.html): 수면무호흡이 혈압을 올리는 원리, 저항성 고혈압과 수면검사, 양압기 치료의 혈압 효과
 - [양압기 건강보험, 90일 순응기간을 통과하지 못하면 어떻게 될까요?](https://bigtreeent.kr/column/cpap-90day-compliance.html): 30일 중 21일·하루 4시간 순응 기준, 통과 못 하면 등록 해지와 180일 뒤 재등록, 수면검사 유효기간
 - [코 스티커와 입 테이프, 양압기를 대신할 수 있을까요?](https://bigtreeent.kr/column/nasal-strip-mouth-tape-vs-cpap.html): 코 확장 스티커와 양압기를 직접 비교한 연구 결과, 입 테이프의 근거와 주의할 점, 스티커보다 수면검사가 먼저인 경우
+- [나도 불면증일까? 불면증 자가 점검과 진료가 필요한 경우](https://bigtreeent.kr/column/insomnia-self-check.html): 만성 불면증의 기준, 불면증 심각도 지수(ISI) 점검, 불면 뒤에 숨은 다른 수면질환
+- ["꼭 8시간은 자야 한다", "하룻밤 못 자면 큰일 난다"? 잠에 대한 오해](https://bigtreeent.kr/column/sleep-myths.html): 불면증을 오래가게 하는 잠에 대한 다섯 가지 오해와 생각 바꾸기
+- [잠을 줄여서 불면증을 고친다? 수면 제한요법 따라 하기](https://bigtreeent.kr/column/sleep-restriction.html): 침대 시간을 실제 수면 시간에 맞추는 수면 제한요법의 원리와 단계별 방법, 주의점
+- [누우면 생각이 많아져 잠이 안 온다면: 이완요법과 걱정 시간](https://bigtreeent.kr/column/racing-mind-bedtime.html): 잠자리 걱정이 잠을 막는 이유, 걱정 시간·복식 호흡·근육 이완·이완 반응 하는 법
+- [잠을 돕는 빛과 운동, 방해하는 술·커피·담배](https://bigtreeent.kr/column/sleep-light-caffeine-alcohol.html): 아침 햇빛과 운동, 저녁 화면, 카페인·술·니코틴·야식·낮잠이 잠에 미치는 영향
+- [약국 수면유도제와 멜라토닌, 효과가 있을까요?](https://bigtreeent.kr/column/otc-sleep-aid-melatonin.html): 항히스타민 수면유도제의 효과와 주의점, 멜라토닌의 근거와 국내 처방 기준, 해외 직구 주의
+- [수면제, 끊고 싶다면: 안전하게 줄이는 방법](https://bigtreeent.kr/column/sleeping-pill-taper.html): 수면제를 끊기 어려운 이유, 인지행동치료와 함께 줄이는 단계별 방법과 주의점
 
 ### 코 · 목 (진료 안내: https://bigtreeent.kr/nose-throat/)
 - [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtreeent.kr/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
