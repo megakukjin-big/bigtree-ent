@@ -61,6 +61,9 @@
 - [이석증, 약으로는 치료할 수 없나요?](https://bigtreeent.kr/column/bppv-medication.html): 약이 이석증을 고치지 못하는 이유, 약이 필요한 순간, 검사 전 복용과 비상약
 - [이석증 재발, 막을 수 있을까요? 근거로 본 재발 예방](https://bigtreeent.kr/column/bppv-recurrence.html): 재발은 얼마나 흔한지, 재발 위험 요인과 실제로 해 볼 만한 예방법, 굳이 하지 않아도 되는 것
 - [거의 매일 머리가 아프다면: 만성 두통, 원인부터 다시 봐야 합니다](https://bigtreeent.kr/column/chronic-daily-headache.html): 만성 편두통으로 변하는 과정, 부비동염·수면무호흡 등 확인할 원인, 약물 과용 두통, 예방 치료와 CGRP 표적 치료
+- [집에서 하는 전정재활운동: 어지럼에서 벗어나는 눈·머리·균형 운동](https://bigtreeent.kr/column/vestibular-rehab-home.html): 전정재활운동의 원리와 진료지침 권고, 시선 고정·균형·걷기 운동 단계별 방법
+- [비디오 안진검사는 어떤 검사인가요? 검사 전 준비할 것](https://bigtreeent.kr/column/vng-test.html): 눈의 움직임으로 어지럼 원인을 찾는 원리, 세부 검사, 검사 전 준비와 검사 후 주의
+- [어르신의 어지럼, 넘어지기 전에 확인하세요](https://bigtreeent.kr/column/dizziness-falls-elderly.html): 평형 기능 저하와 낙상 위험, 어르신 어지럼의 흔한 원인과 넘어짐을 줄이는 방법
 
 ### 이명 · 난청 (진료 안내: https://bigtreeent.kr/hearing/)
 - [평소 있던 이명 소리가 달라졌어요, 괜찮을까요?](https://bigtreeent.kr/column/tinnitus-sound-changed.html): 음색 변화, 한쪽만 커짐, 맥박 같은 소리, 청력 저하까지 확인할 신호
@@ -117,6 +120,12 @@
 - [잠을 돕는 빛과 운동, 방해하는 술·커피·담배](https://bigtreeent.kr/column/sleep-light-caffeine-alcohol.html): 아침 햇빛과 운동, 저녁 화면, 카페인·술·니코틴·야식·낮잠이 잠에 미치는 영향
 - [약국 수면유도제와 멜라토닌, 효과가 있을까요?](https://bigtreeent.kr/column/otc-sleep-aid-melatonin.html): 항히스타민 수면유도제의 효과와 주의점, 멜라토닌의 근거와 국내 처방 기준, 해외 직구 주의
 - [수면제, 끊고 싶다면: 안전하게 줄이는 방법](https://bigtreeent.kr/column/sleeping-pill-taper.html): 수면제를 끊기 어려운 이유, 인지행동치료와 함께 줄이는 단계별 방법과 주의점
+- [나이 들면 잠이 줄어드나요? 정상적인 변화와 불면증의 차이](https://bigtreeent.kr/column/sleep-aging.html): 나이에 따른 수면 변화와, 나이 탓으로 넘기면 안 되는 경우
+- [스트레스로 시작된 불면증, 왜 스트레스가 지나도 계속될까요](https://bigtreeent.kr/column/stress-insomnia.html): 불면증의 3P 모델, 과각성, 악순환을 끊는 방법
+- [주말 몰아 자기와 낮잠, 괜찮을까요?](https://bigtreeent.kr/column/weekend-catchup-nap.html): 주말 보충 수면의 한계와 사회적 시차, 도움이 되는 낮잠과 해로운 낮잠
+- [새벽에 일찍 깨서 다시 잠들지 못한다면](https://bigtreeent.kr/column/early-morning-awakening.html): 새벽 각성의 흔한 원인(리듬 앞당김, 우울, 술, 수면무호흡)과 원인별 대처
+- [교대근무와 잠: 낮에 자야 하는 사람들을 위한 수면법](https://bigtreeent.kr/column/shift-work-sleep.html): 교대근무 수면장애의 증상, 낮잠 잘 자는 법, 근무 중 졸음 줄이기
+- [잠이 잘 오는 침실 만들기: 온도, 빛, 소리, 그리고 침대의 쓰임](https://bigtreeent.kr/column/bedroom-environment.html): 덥지 않은 침실, 밤의 어둠, 소음 관리, 침대를 잠자는 곳으로 만드는 자극 조절법
 
 ### 코 · 목 (진료 안내: https://bigtreeent.kr/nose-throat/)
 - [알레르기 비염, 아이 공부에도 영향을 줄까요?](https://bigtreeent.kr/column/rhinitis-school.html): MASK-air 국제 연구로 본 비염과 학업, 아이 비염 신호와 면역치료
