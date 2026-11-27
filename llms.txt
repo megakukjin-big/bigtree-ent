@@ -91,6 +91,12 @@
 - [턱을 움직이거나 목을 돌리면 이명이 변한다면: 체성 이명](https://bigtreeent.kr/column/tinnitus-somatic.html): 턱과 목이 이명에 영향을 주는 이유, 의심 증상과 간단한 확인법, 치료
 - [소리 치료와 이명 재훈련치료(TRT), 효과가 있을까요?](https://bigtreeent.kr/column/tinnitus-sound-therapy.html): 배경 소리, 차폐, 소리 발생기, TRT의 원리와 대규모 연구 결과, 현실적인 권고
 - [이명으로 진료 받기 전, 이것만 기록해 오세요](https://bigtreeent.kr/column/tinnitus-visit-prep.html): 소리의 특징, 시작 시점, 함께 있는 증상, 악화 요인, 생활 영향, 챙겨 올 것
+- [음악이나 사람 목소리가 들린다면, 이명일까요 환청일까요?](https://bigtreeent.kr/column/tinnitus-or-hallucination.html): 난청이 있는 어르신에게 생기는 음악 귀 증후군과 정신건강의학과 진료가 필요한 환청의 구분
+- [귀에서 "딸깍딸깍" 소리나 내 숨소리가 들린다면](https://bigtreeent.kr/column/tinnitus-clicking.html): 원인을 찾을 수 있는 타각적 이명: 중이 근경련, 구개 근경련, 이관 개방증
+- [이명을 무시하려 할수록 더 크게 들리는 이유, 마음챙김](https://bigtreeent.kr/column/tinnitus-mindfulness.html): 억누를수록 커지는 이명의 원리, 마음챙김 기반 인지치료의 근거와 집에서 하는 연습
+- [좋아졌던 이명이 다시 커졌다면, 이명의 기복과 재발](https://bigtreeent.kr/column/tinnitus-flare.html): 이명이 오르내리는 이유, 다시 커지는 흔한 계기와 대처법, 검사가 필요한 경우
+- [이명 때문에 우울하고 불안하다면](https://bigtreeent.kr/column/tinnitus-anxiety-depression.html): 이명과 우울·불안이 서로를 키우는 관계, 함께 돌봐야 할 신호와 치료
+- [빈혈과 철분 부족도 이명의 원인이 될까요?](https://bigtreeent.kr/column/tinnitus-anemia.html): 빈혈이 이명을 일으키는 원리, 연구 결과, 의심해야 할 경우와 확인·치료
 
 ### 코골이 · 수면 (진료 안내: https://bigtreeent.kr/sleep/)
 - [누워도 한 시간 넘게 잠이 안 온다면](https://bigtreeent.kr/column/insomnia-cbti.html): 수면제와 다른 접근, 불면증 인지행동치료(CBT-I)와 디지털 치료
